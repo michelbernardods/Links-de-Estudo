@@ -114,7 +114,7 @@
 
 ## Artigos
 - [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
-- [🌳 Como alterar o repositório remoto de um diretório de trabalho](https://devblog.drall.com.br/git-como-alterar-o-repositorio-remoto-de-um-diretorio-de-trabalho) 
+- [🌳 Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
 - [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
 - [💡 Como hospedar um site feito em React usando o Github](https://medium.com/@rogeriomattos38/como-hospedar-um-site-feito-em-react-usando-o-github-5e226e2b4cdc)
 - [💡 Como implementar o Algoritmo do Fogo do DOOM](https://medium.com/@FilipeDeschamps/tutorial-completo-de-como-implementar-o-algoritmo-do-fogo-do-doom-41d38ac39fa7)
