@@ -1,5 +1,6 @@
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
-- [💻 Codando.org](https://codando.org/material-gratuito/) - Geral
+- [💻 Codando.org](https://codando.org/material-gratuito) - Geral
+- [💻 Jornada do dev](https://jornadadodev.com.br/cursos) - Geral
 - [🐧 Introdução ao Linux](http://884a37b.contato.site/captura-introducao-1?fbclid=IwAR1Z2FBbXsSt0eKmA9Kho3_A7fzBbJm7WaE3qTCHkHIFLVTULBV19fC5q0c)
 - [🐍 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Python
   - [Parte 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Parte 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye), [Parte 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)

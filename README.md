@@ -21,7 +21,7 @@
 
 </p>
 
-|                                                            |                                                            |                                               |
-| ---------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------- |
-| [Cursos com certificado](./config/CursosComCertificado.md) | [Cursos em geral](./config/CursosEmGeral.md)               | [Ferramentas](./config/Ferramentas.md)        |
-| [Livros](./config/Livros.md)                               | [Repositórios no GitHub](./config/RepositoriosNoGitHub.md) | [Artigos e notícias](./config/Artigos.md)     |
+|                                                   |                                              |                                           |                                   |
+| ------------------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------- |
+| [Cursos com certificado](./config/Certificado.md) | [Cursos em geral](./config/Geral.md)         | [Livros](./config/Livros.md)              | [Cursos Udemy](./config/Udemy.md) |
+| [Ferramentas](./config/Ferramentas.md)            | [Repositórios no GitHub](./config/GitHub.md) | [Artigos e notícias](./config/Artigos.md) |                                   |
