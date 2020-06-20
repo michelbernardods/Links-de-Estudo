@@ -1,0 +1,8 @@
+- [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
+- [🌳 Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
+- [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
+- [💡 Como hospedar um site feito em React usando o Github](https://medium.com/@rogeriomattos38/como-hospedar-um-site-feito-em-react-usando-o-github-5e226e2b4cdc)
+- [💡 Como implementar o Algoritmo do Fogo do DOOM](https://medium.com/@FilipeDeschamps/tutorial-completo-de-como-implementar-o-algoritmo-do-fogo-do-doom-41d38ac39fa7)
+- [📹 Lista de streamers brasileiros de programação](http://gabsferreira.com/mais-de-30-streamers-brasileiros-de-programacao-data-science-e-tecnologia-em-geral/)
+- [🌐 História do CSS](https://www.felipefialho.com/blog/do-sass-e-bem-ao-css-in-js-a-evolucao-do-css-ao-longo-da-historia/)
+- [☠️ USB Killer: O pendrive que queima dispositivos](https://suporteninja.com/usb-killer-como-funciona-o-pendrive-que-queima-pc-notebook-tv-e-qualquer-outro-dispositivo-com-entrada-usb/?fbclid=IwAR0-0R4W1QEwX2moZk9ljbh8PV-v4Xq1CODq_7J3iFQblN5TTbjybGXBUmo)
