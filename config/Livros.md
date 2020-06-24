@@ -1,4 +1,5 @@
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
+- [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 - [🌀 Deep Learning Book](http://www.deeplearningbook.com.br/)
