@@ -91,90 +91,63 @@
 
 [Curso de Desenvolvimento de Apps para Android (30 aulas)](https://goo.gl/btlCUv)
 
-Curso de Desenvolvimento de Apps para iOS com Swift (28 aulas)
-https://goo.gl/RyuNoA
+[Curso de Desenvolvimento de Apps para iOS com Swift (28 aulas)](https://goo.gl/RyuNoA)
 
-Curso de Desenvolvimento de Apps para iOS com Objective C (51 aulas)
-https://goo.gl/0bq0kC
+[Curso de Desenvolvimento de Apps para iOS com Objective C (51 aulas)](https://goo.gl/0bq0kC)
 
-Curso de Desenvolvimento de Apps com PhoneGap/Cordova (34 aulas)
-https://goo.gl/GDXSsX
+[Curso de Desenvolvimento de Apps com PhoneGap/Cordova (34 aulas)](https://goo.gl/GDXSsX)
 
-Curso de Desenvolvimento de Apps com Ionic (14 aulas)
-https://goo.gl/xQlBmA
+[Curso de Desenvolvimento de Apps com Ionic (14 aulas)](https://goo.gl/xQlBmA)
 
-Curso de Desenvolvimento de Apps com Ionic 2 (10 aulas)
-https://goo.gl/i3PVo7
+[Curso de Desenvolvimento de Apps com Ionic 2 (10 aulas)](https://goo.gl/i3PVo7)
 
-Curso Recriando o Uber com Ionic 2 (19 aulas)(inglês)
-https://goo.gl/B9KyHL
+[Curso Recriando o Uber com Ionic 2 (19 aulas)(inglês)](https://goo.gl/B9KyHL)
 
-Curso Criando um App de gestão financeira com Ionic 2 (10 aulas)
-https://goo.gl/EUzvuY
+[Curso Criando um App de gestão financeira com Ionic 2 (10 aulas)](https://goo.gl/EUzvuY)
 
-Curso de Interfaces Responsivas com jQuery Mobile (20 aulas)
-https://goo.gl/0KCCg2
+[Curso de Interfaces Responsivas com jQuery Mobile (20 aulas)](https://goo.gl/0KCCg2)
 
-Curso de Interfaces Responsivas com Sencha Touch (6 aulas)
-https://goo.gl/JktVlX
+[Curso de Interfaces Responsivas com Sencha Touch (6 aulas)](https://goo.gl/JktVlX)
 
+## Servidores
 
-===== SERVIDORES =====
+[Curso Básico de GIT (8 aulas)](https://goo.gl/OSdCBS)
 
-Curso Básico de GIT (8 aulas)
-https://goo.gl/OSdCBS
+[Curso Configurando um Servidor Cloud na Digital Ocean (3 aulas)](https://goo.gl/8sr22C)
 
-Curso Configurando um Servidor Cloud na Digital Ocean (3 aulas)
-https://goo.gl/8sr22C
+[Curso Configurando um Servidor Amazon AWS (7 aulas)](https://goo.gl/qfnmAJ)
 
-Curso Configurando um Servidor Amazon AWS (7 aulas)
-https://goo.gl/qfnmAJ
+[Curso Básico de Linux Debian (17 aulas)](https://goo.gl/FLfXN9)
 
-Curso Básico de Linux Debian (17 aulas)
-https://goo.gl/FLfXN9
+[Curso Completo de Linux Ubuntu (81 aulas)](https://goo.gl/rPpgkl)
 
-Curso Completo de Linux Ubuntu (81 aulas)
-https://goo.gl/rPpgkl
+[Curso Completo de Servidor Linux Debian (35 aulas)](https://goo.gl/sNk7xU)
 
-Curso Completo de Servidor Linux Debian (35 aulas)
-https://goo.gl/sNk7xU
+[Curso Avançado de Linux Ubuntu - Comandos no Terminal (15 aulas)](https://goo.gl/KA6S70)
 
-Curso Avançado de Linux Ubuntu - Comandos no Terminal (15 aulas)
-https://goo.gl/KA6S70
+[Curso de Windows Server 2016 (15 aulas)](https://goo.gl/WnnYqX)
 
-Curso de Windows Server 2016 (15 aulas)
-https://goo.gl/WnnYqX
+[Curso de CPanel (30 aulas)](https://goo.gl/OtTBuc)
 
-Curso de CPanel (30 aulas)
-https://goo.gl/OtTBuc
-Curso Como criar uma Revenda de Hospedagem com WHM e WHMCS (11 aulas)
-https://goo.gl/ntkoYv
+[Curso Como criar uma Revenda de Hospedagem com WHM e WHMCS (11 aulas)](https://goo.gl/ntkoYv)
 
-=== EDIÇÃO DE IMAGEM E VÍDEO ===
+## Edição de imagem e vídeo
 
-Curso de Adobe Photoshop CC (53 aulas)
-https://goo.gl/sfmOIo
+[Curso de Adobe Photoshop CC (53 aulas)](https://goo.gl/sfmOIo)
 
-Curso de Adobe Illustrator CC (55 aulas)
-https://goo.gl/sSVqLT
+[Curso de Adobe Illustrator CC (55 aulas)](https://goo.gl/sSVqLT)
 
-Curso Básico de Corel Draw X8 (9 aulas)
-https://goo.gl/HnrLil
+[Curso Básico de Corel Draw X8 (9 aulas)](https://goo.gl/HnrLil)
 
-Curso Completo de Corel Draw X8 (94 aulas)
-https://goo.gl/suapyb
+[Curso Completo de Corel Draw X8 (94 aulas)](https://goo.gl/suapyb)
 
-Curso de Adobe Premiere Pro CC (34 aulas)
-https://goo.gl/7nPNJh
+[Curso de Adobe Premiere Pro CC (34 aulas)](https://goo.gl/7nPNJh)
 
-Curso Aprenda After Effects em 30 minutos (5 aulas)
-https://goo.gl/7vV1Ps
+[Curso Aprenda After Effects em 30 minutos (5 aulas)](https://goo.gl/7vV1Ps)
 
-Curso Completo de After Effects (80 aulas)
-https://goo.gl/rPqcEK
+[Curso Completo de After Effects (80 aulas)](https://goo.gl/rPqcEK)
 
-Curso de Vegas Pro 13 (34 aulas)
-https://goo.gl/7LVIV3
+[Curso de Vegas Pro 13 (34 aulas)](https://goo.gl/7LVIV3)
 
 ## Modelagem 3D
 
