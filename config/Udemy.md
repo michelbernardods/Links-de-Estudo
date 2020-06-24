@@ -1,79 +1,54 @@
-[CURSOS GRATUITOS]
+## Frontend
 
-===== FRONTEND =====
+[Curso Completo de HTML5 (42 aulas)](https://goo.gl/SD4p4g)
 
-Curso Completo de HTML5 (42 aulas)
-https://goo.gl/SD4p4g
+[Curso Aprenda HTML em 1 hora (22 aulas)](https://goo.gl/1kfBCZ)
 
-Curso Aprenda HTML em 1 hora (22 aulas)
-https://goo.gl/1kfBCZ
+[Curso completo de CSS3 (22 aulas)](https://goo.gl/ebjzVG)
 
-Curso completo de CSS3 (22 aulas)
-https://goo.gl/ebjzVG
+[Curso Básico de CSS (12 aulas)](https://goo.gl/s98HNb)
 
-Curso Básico de CSS (12 aulas)
-https://goo.gl/s98HNb
+[Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT)
 
-Curso de Bootstrap (16 aulas)
-https://goo.gl/xFDOxT
+[Curso de Less (6 aulas)](https://goo.gl/Y5UkLQ)
 
-Curso de Less (6 aulas)
-https://goo.gl/Y5UkLQ
+[Curso de Sass (18 aulas)(inglês)](https://goo.gl/DzRv1e)
 
-Curso de Sass (18 aulas)(inglês)
-https://goo.gl/DzRv1e
+[Curso de CSS3 com Sass e Compass (9 aulas)](https://goo.gl/bAO0hE)
 
-Curso de CSS3 com Sass e Compass (9 aulas)
-https://goo.gl/bAO0hE
+[Curso completo de Javascript (46 aulas)](https://goo.gl/zfjfkQ)
 
-Curso completo de Javascript (46 aulas)
-https://goo.gl/zfjfkQ
+[Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7)
 
-Curso Completo de jQuery (56 aulas)
-https://goo.gl/tHdIZ7
+[Curso de Angular (17 aulas)](https://goo.gl/6rT9ZC)
 
-Curso de Angular (17 aulas)
-https://goo.gl/6rT9ZC
+[Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt)
 
-Curso de Angular 2 (56 aulas)
-https://goo.gl/mxPqRt
+## Backend
 
-===== BACKEND =====
+[Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o)
 
-Curso Básico de PHP (20 aulas)
-https://goo.gl/wLra9o
+[Curso Completo de PHP (108 aulas)](https://goo.gl/1th6ok)
 
-Curso Completo de PHP (108 aulas)
-https://goo.gl/1th6ok
+[Curso de NodeJS (21 aulas)](https://goo.gl/6kGFk6)
 
-Curso de NodeJS (21 aulas)
-https://goo.gl/6kGFk6
+[Curso de Aplicações Web Ricas com ExtJS (44 aulas)](https://goo.gl/tMZDvv)
 
-Curso de Aplicações Web Ricas com ExtJS (44 aulas)
-https://goo.gl/tMZDvv
+[Curso de Ruby (15 aulas)](https://goo.gl/LcHcn4)
 
-Curso de Ruby (15 aulas)
-https://goo.gl/LcHcn4
+[Curso de Ruby On Rails (49 aulas)](https://goo.gl/4oXEAP)
 
-Curso de Ruby On Rails (49 aulas)
-https://goo.gl/4oXEAP
+[Curso de Gulp (11 aulas)(inglês)](https://goo.gl/dgs7On)
 
-Curso de Gulp (11 aulas)(inglês)
-https://goo.gl/dgs7On
+[Curso de Grunt (16 aulas)(inglês)](https://goo.gl/8KZskT)
 
-Curso de Grunt (16 aulas)(inglês)
-https://goo.gl/8KZskT
+## Frameworks de php
 
-===== FRAMEWORKS DE PHP =====
+[Curso de Laravel (23 aulas)](https://goo.gl/C8RaxI)
 
-Curso de Laravel (23 aulas)
-https://goo.gl/C8RaxI
+[Curso de CodeIgniter (12 aulas)](https://goo.gl/A39ge0)
 
-Curso de CodeIgniter (12 aulas)
-https://goo.gl/A39ge0
-
-Curso de Zend 2 (29 aulas)
-https://goo.gl/nDkesr
+[Curso de Zend 2 (29 aulas)](https://goo.gl/nDkesr)
 
 Curso de Zend 3 (13 aulas)(inglês)
 https://goo.gl/N1PBQV
@@ -125,7 +100,9 @@ https://goo.gl/qn75XT
 Curso de Desenvolvimento de Módulos para o Drupal 7 (11 aulas)(inglês)
 https://goo.gl/99NW2O
 
-===== MOBILE =====
+## Mobile
+
+[Desenvolvedor android iniciante](https://www.udemy.com/course/desenvolvedor-android-iniciante/)
 
 Curso de Desenvolvimento de Apps para Android (30 aulas)
 https://goo.gl/btlCUv
@@ -229,18 +206,14 @@ https://goo.gl/8uOa4e
 Curso de SketchUp (48 aulas)
 https://goo.gl/ksMwfO
 
-== DESENVOLVIMENTO DE GAMES ==
+## Desenvolvimento de jogos
 
-Curso Básico de CryEngine (20 aulas)
-https://goo.gl/EcxNi8
+[Arcade Classic in Javascript on Canvas (em inglês)](https://www.udemy.com/share/101r8kB0Qfdl1UQH8=/)
 
-Curso Básico de Unreal Engine 4 (47 aulas)
-https://goo.gl/SsmLKl
+[Curso Básico de CryEngine (20 aulas)](https://goo.gl/EcxNi8)
 
-Curso Básico de Unity 3D (80 aulas)
-https://goo.gl/n5Vo6W
+[Curso Básico de Unreal Engine 4 (47 aulas)](https://goo.gl/SsmLKl)
 
-Curso Recriando o Flappy Bird com Unity 3D (12 aulas)
-https://goo.gl/1sufMv
+[Curso Básico de Unity 3D (80 aulas)](https://goo.gl/n5Vo6W)
 
-===============================
+[Curso Recriando o Flappy Bird com Unity 3D (12 aulas)](https://goo.gl/1sufMv)
