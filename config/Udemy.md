@@ -50,62 +50,46 @@
 
 [Curso de Zend 2 (29 aulas)](https://goo.gl/nDkesr)
 
-Curso de Zend 3 (13 aulas)(inglês)
-https://goo.gl/N1PBQV
+[Curso de Zend 3 (13 aulas)(inglês)](https://goo.gl/N1PBQV)
 
 
-===== BANCO DE DADOS =====
+## Banco de dados
 
-Curso Completo de MySQL (37 aulas)
-https://goo.gl/wom29p
+[Curso Completo de MySQL (37 aulas)](https://goo.gl/wom29p)
 
-Curso de MongoDB (9 aulas)
-https://goo.gl/xc1LAo
+[Curso de MongoDB (9 aulas)](https://goo.gl/xc1LAo)
 
-===== CMS =====
+## CMS 
 
-Curso Básico de Wordpress (34 aulas)
-https://goo.gl/VTa3aV
+[Curso Básico de Wordpress (34 aulas)](https://goo.gl/VTa3aV)
 
-Curso Completo de Criação de Temas para Wordpress (31 aulas)
-https://goo.gl/10vlHM
+[Curso Completo de Criação de Temas para Wordpress (31 aulas)](https://goo.gl/10vlHM)
 
-Curso Completo de criação de Portais com Wordpress (65 aulas)
-https://goo.gl/5ravtU
+[Curso Completo de criação de Portais com Wordpress (65 aulas)](https://goo.gl/5ravtU)
 
-Curso de Desenvolvimento de Plugins para o Wordpress (15 Aulas)
-https://goo.gl/ozs8Yf
+[Curso de Desenvolvimento de Plugins para o Wordpress (15 Aulas)](https://goo.gl/ozs8Yf)
 
-Curso Básico de Magento (39 aulas)
-https://goo.gl/bBJnFx
+[Curso Básico de Magento (39 aulas)](https://goo.gl/bBJnFx)
 
-Curso Express de Desenvolimento de Temas para o Magento (4 aulas)
-https://goo.gl/9CmbJo
+[Curso Express de Desenvolimento de Temas para o Magento (4 aulas)](https://goo.gl/9CmbJo)
 
-Curso Completo de Desenvolvimento de Temas para o Magento (25 aulas)(inglês)
-https://goo.gl/6XsLRx
+[Curso Completo de Desenvolvimento de Temas para o Magento (25 aulas)(inglês)](https://goo.gl/6XsLRx)
 
-Curso de Desenvolvimento de Módulos para o Magento (10 aulas)(inglês)
-https://goo.gl/mZoxJ3
+[Curso de Desenvolvimento de Módulos para o Magento (10 aulas)(inglês)](https://goo.gl/mZoxJ3)
 
-Curso Básico de Drupal 7 (40 aulas)
-https://goo.gl/VpxzLl
+[Curso Básico de Drupal 7 (40 aulas)](https://goo.gl/VpxzLl)
 
-Curso de Views no Drupal 7 (30 aulas)(Português de Portugal)
-https://goo.gl/RKZidV
+[Curso de Views no Drupal 7 (30 aulas)(Português de Portugal)](https://goo.gl/RKZidV)
 
-Curso de Desenvolvimento de Temas para o Drupal 7 (58 aulas)(Português de Portugal)
-https://goo.gl/qn75XT
+[Curso de Desenvolvimento de Temas para o Drupal 7 (58 aulas)(Português de Portugal)](https://goo.gl/qn75XT)
 
-Curso de Desenvolvimento de Módulos para o Drupal 7 (11 aulas)(inglês)
-https://goo.gl/99NW2O
+[Curso de Desenvolvimento de Módulos para o Drupal 7 (11 aulas)(inglês)](https://goo.gl/99NW2O)
 
 ## Mobile
 
 [Desenvolvedor android iniciante](https://www.udemy.com/course/desenvolvedor-android-iniciante/)
 
-Curso de Desenvolvimento de Apps para Android (30 aulas)
-https://goo.gl/btlCUv
+[Curso de Desenvolvimento de Apps para Android (30 aulas)](https://goo.gl/btlCUv)
 
 Curso de Desenvolvimento de Apps para iOS com Swift (28 aulas)
 https://goo.gl/RyuNoA
@@ -192,19 +176,15 @@ https://goo.gl/rPqcEK
 Curso de Vegas Pro 13 (34 aulas)
 https://goo.gl/7LVIV3
 
-===== MODELAGEM 3D =====
+## Modelagem 3D
 
-Curso de Blender 3D (17 aulas)
-https://goo.gl/EvPg7s
+[Curso de Blender 3D (17 aulas)](https://goo.gl/EvPg7s)
 
-Curso de 3D Studio Max (45 aulas)
-https://goo.gl/WlYziZ
+[Curso de 3D Studio Max (45 aulas)](https://goo.gl/WlYziZ)
 
-Curso de Maya (40 aulas)
-https://goo.gl/8uOa4e
+[Curso de Maya (40 aulas)](https://goo.gl/8uOa4e)
 
-Curso de SketchUp (48 aulas)
-https://goo.gl/ksMwfO
+[Curso de SketchUp (48 aulas)](https://goo.gl/ksMwfO)
 
 ## Desenvolvimento de jogos
 
