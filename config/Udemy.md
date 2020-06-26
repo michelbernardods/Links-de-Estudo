@@ -110,8 +110,11 @@
 [Curso de Interfaces Responsivas com Sencha Touch (6 aulas)](https://goo.gl/JktVlX)
 
 ## Servidores
+[Git e contribuições para projetos Open Source](https://lnkd.in/er4im7H)
 
 [Curso Básico de GIT (8 aulas)](https://goo.gl/OSdCBS)
+
+[Criando Páginas Web com o GitHub Pages](https://lnkd.in/eNfr_eS)
 
 [Curso Configurando um Servidor Cloud na Digital Ocean (3 aulas)](https://goo.gl/8sr22C)
 
@@ -164,6 +167,8 @@
 [Arcade Classic in Javascript on Canvas (em inglês)](https://www.udemy.com/share/101r8kB0Qfdl1UQH8=/)
 
 [Curso Básico de CryEngine (20 aulas)](https://goo.gl/EcxNi8)
+
+[Unreal Engine 4 Essentials - Uma Introdução Detalhada](https://lnkd.in/ekzWpBg)
 
 [Curso Básico de Unreal Engine 4 (47 aulas)](https://goo.gl/SsmLKl)
 
