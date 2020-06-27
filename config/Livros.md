@@ -1,3 +1,5 @@
+Bliblioteca de livros em inglês: https://b-ok.cc
+
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
 - [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
