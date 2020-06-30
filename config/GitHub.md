@@ -1,3 +1,4 @@
+- [:bug: Pratique programação](https://github.com/luanribeiros/daily-code) (Sites em inglês)
 - 💻 Geral
   - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
   - [4noobs](https://github.com/he4rt/4noobs)
