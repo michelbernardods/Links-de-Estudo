@@ -1,3 +1,4 @@
+- [🎓 Novi](www.novienem.com.br) - Pré Enem
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
 - [💻 Codando.org](https://codando.org/material-gratuito) - Geral
 - [💻 Jornada do dev](https://jornadadodev.com.br/cursos) - Geral
