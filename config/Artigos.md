@@ -1,4 +1,5 @@
 - [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
+- [:bug: O que é um DEV e porque você deveria se tornar um hoje](https://medium.com/pergunteaodev/o-que-%C3%A9-um-dev-e-porque-voc%C3%AA-deveria-se-tornar-um-hoje-674638a2fe27)
 - [🐙 Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
 - [🐙 Github planeja remover termos como ‘master’ em sua plataforma](https://gizmodo.uol.com.br/github-planeja-remover-termos-como-master)
 - [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
