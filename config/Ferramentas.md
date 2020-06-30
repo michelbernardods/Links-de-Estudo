@@ -1,6 +1,7 @@
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - ☁ Programação em nuvem:
-  - https://www.gitpod.io
+  - https://gitpod.io
+  - https://slingcode.net
   - https://glitch.com
   - https://codesandbox.io
   - https://codepen.io
@@ -13,6 +14,7 @@
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
 - [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
+- [👥 Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
