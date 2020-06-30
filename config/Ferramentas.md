@@ -1,18 +1,14 @@
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - ☁ Programação em nuvem:
-  - https://gitpod.io
-  - https://slingcode.net
-  - https://glitch.com
-  - https://codesandbox.io
-  - https://codepen.io
-  - https://repl.it
-  - https://ideone.com
+  - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com)
+  - [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it)
 - ✏ Design
   - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"
   - [Whinsical](https://whimsical.com) - Prototipação e diagramas
   - [Figma](https://www.figma.com) - Prototipação e diagramas
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
+- [👥 Libreflix](https://opensource.builders/) - Plataforma de streaming livre e independente
 - [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
 - [👥 Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
