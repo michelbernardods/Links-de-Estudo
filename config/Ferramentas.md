@@ -8,7 +8,7 @@
   - [Figma](https://www.figma.com) - Prototipação e diagramas
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
-- [👥 Libreflix](https://opensource.builders/) - Plataforma de streaming livre e independente
+- [👥 Libreflix](https://librefix.org) - Plataforma de streaming livre e independente
 - [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
 - [👥 Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
