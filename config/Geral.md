@@ -1,4 +1,4 @@
-- [🎓 Novi](www.novienem.com.br) - Pré Enem
+# Tecnologia
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
 - [💻 Codando.org](https://codando.org/material-gratuito) - Geral
 - [💻 Jornada do dev](https://jornadadodev.com.br/cursos) - Geral
@@ -18,13 +18,17 @@
 - [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
 - [💡 Node.js para Iniciantes](https://treinamento.nodebr.org)
-- [🎨 Curso de Adobe XD](https://www.youtube.com/playlist?list=PL9rc_FjKlX3-K25DZVcNlsVDItg9OlZiW)
 - [💎 Onebitcode](https://onebitcode.com/cursos) - Ruby, Rails, Vue
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🌐 Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI) - HTML5 e CSS3
 - [🌐 Cursos de desenvolvimento web](https://classes.vedovelli.com.br/courses) - Curso de Svelte e Vue.js 3
 - [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
 - [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
+
+# Outros
+- [🎓 Novi](www.novienem.com.br) - Pré Enem
+- [🎨 Crehana](https://www.crehana.com/br/cursos-gratis) - Geral
+- [🎨 Curso de Adobe XD](https://www.youtube.com/playlist?list=PL9rc_FjKlX3-K25DZVcNlsVDItg9OlZiW)
 - [⚙ Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) - Aprenda a mexer em ferramentas, construir circuitos eletrônicos, montar projetos...
 - [💬 Duolingo](https://pt.duolingo.com) - Curso de idiomas
 - ⌨️ Cursos de digitação
