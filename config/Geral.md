@@ -1,6 +1,7 @@
 # Youtube
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
 - [💻 Origamid](https://www.youtube.com/c/Origamid) - Geral
+- [⛏️ Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q) - Linguagem C
 - [💡 Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Javascript, ReactJs e NodeJs
 - [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
