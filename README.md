@@ -25,5 +25,5 @@
 
 |                                                   |                                              |                                           |                                   |
 | ------------------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------- |
-| [Cursos com certificado](./config/Certificado.md) | [Cursos em geral](./config/Geral.md)         | [Livros](./config/Livros.md)              | [Cursos Udemy](./config/Udemy.md) |
-| [Ferramentas](./config/Ferramentas.md)            | [Repositórios no GitHub](./config/GitHub.md) | [Artigos e notícias](./config/Artigos.md) |                                   |
+| [Cursos com certificado](./src/Certificado.md) | [Cursos em geral](./src/Geral.md)         | [Livros](./src/Livros.md)              | [Cursos Udemy](./src/Udemy.md) |
+| [Ferramentas](./src/Ferramentas.md)            | [Repositórios no GitHub](./src/GitHub.md) | [Artigos e notícias](./src/Artigos.md) |                                   |

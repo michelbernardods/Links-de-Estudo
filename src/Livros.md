@@ -9,3 +9,5 @@
 - [🐍 Python Data Science Handbook (em inglês)](https://jakevdp.github.io/PythonDataScienceHandbook)
 - [🐍 Think Python: How to Think Like a Computer Scientist (em inglês)](http://greenteapress.com/thinkpython2/html/index.html)
 - [🐍 Invent Your Own Computer Games with Python, 4th Edition (em inglês)](http://inventwithpython.com/invent4thed/chapter0.html)
+
+[Voltar](../README.md)

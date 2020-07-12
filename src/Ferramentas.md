@@ -15,3 +15,5 @@
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha (em inglês)
+
+[Voltar](../README.md)
