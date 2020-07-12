@@ -1,4 +1,5 @@
 # Youtube
+- [💻 Canal T.I.](https://www.youtube.com/c/CanalTIoficial)
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
 - [💻 Origamid](https://www.youtube.com/c/Origamid) - Geral
 - [⛏️ Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q) - Linguagem C
