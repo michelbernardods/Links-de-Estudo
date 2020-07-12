@@ -10,7 +10,7 @@
 - [🐍 Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-) - Python 
 - [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
 - [⚙ Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) - Aprenda a mexer em ferramentas, construir circuitos eletrônicos, montar projetos...
-
+- [⚙ Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9) - Aprenda a montar um pc
 # Outros sites
 - [🎓 Novi](www.novienem.com.br) - Pré Enem
 - [💬 Duolingo](https://pt.duolingo.com) - Curso de idiomas
