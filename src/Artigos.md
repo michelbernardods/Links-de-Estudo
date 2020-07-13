@@ -11,3 +11,5 @@
 - [☠️ USB Killer: O pendrive que queima dispositivos](https://suporteninja.com/usb-killer-como-funciona-o-pendrive-que-queima-pc-notebook-tv-e-qualquer-outro-dispositivo-com-entrada-usb/?fbclid=IwAR0-0R4W1QEwX2moZk9ljbh8PV-v4Xq1CODq_7J3iFQblN5TTbjybGXBUmo)
 - [🌑 Navegador Opera GX pode forçar modo escuro em qualquer página da web](https://canaltech.com.br/apps/navegador-opera-gx-agora-pode-forcar-modo-escuro-em-qualquer-pagina-da-web-166772/)
 - [💻 3 dos melhores softwares da atualidade para acesso remoto](https://www.tecmundo.com.br/software/154216-3-melhores-softwares-atualidade-acesso-remoto.htm)
+
+[Voltar](../README.md)
