@@ -176,4 +176,6 @@
 
 [Curso Recriando o Flappy Bird com Unity 3D (12 aulas)](https://goo.gl/1sufMv)
 
+<hr>
+
 [Voltar](../README.md)
