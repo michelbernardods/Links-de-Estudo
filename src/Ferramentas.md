@@ -12,7 +12,9 @@
 - [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
 - [👥 Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
+- [🦆 Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
+- [📹 Conversor de video e audio online](https://convert-video-online.com/pt)
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha (em inglês)
 
