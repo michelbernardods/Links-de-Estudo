@@ -1,7 +1,7 @@
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - ☁ Programação em nuvem:
   - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com)
-  - [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it)
+  - [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
 - ✏ Design
   - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"
   - [Whinsical](https://whimsical.com) - Prototipação e diagramas
@@ -11,7 +11,6 @@
 - [👥 Libreflix](https://libreflix.org/) - Plataforma de streaming livre e independente
 - [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
 - [👥 Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
-- [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
 - [🦆 Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [📹 Conversor de video e audio online](https://convert-video-online.com/pt)
