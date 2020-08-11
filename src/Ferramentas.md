@@ -1,21 +1,22 @@
-- [☁ Notion](https://www.notion.so) - Anotações em nuvem
-- ☁ Programação em nuvem:
-  - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com)
-  - [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
 - ✏ Design
   - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"
   - [Whinsical](https://whimsical.com) - Prototipação e diagramas
   - [Figma](https://www.figma.com) - Prototipação e diagramas
+- ☁ Programação em nuvem:
+  - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com)
+  - [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
+- [☁ Notion](https://www.notion.so) - Anotações em nuvem
+- [🔗 TinyURL](https://tinyurl.com) - encurtador de urls
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
-- [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
-- [👥 Libreflix](https://libreflix.org/) - Plataforma de streaming livre e independente
-- [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
+- [🖼 Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
+- [👥 Libreflix](https://libreflix.org) - Plataforma de streaming livre e independente
+- [👥 Opensource builders](https://opensource.builders) - Alternativas open source a softwares
 - [👥 Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 - [🦆 Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [📹 Conversor de video e audio online](https://convert-video-online.com/pt)
 - [🎵 Musicas e efeitos sem copyright](https://www.youtube.com/channel/UCZVzgqp-fRUgyvRAmlm9IxA)
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
-- [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha (em inglês)
+- [💡 1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
 
 [Voltar](../README.md)
