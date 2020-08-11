@@ -1,18 +1,25 @@
-- [:books: Biblioteca de livros em inglês](https://b-ok.cc)
-- [:eyes: Apostilas Caelum](https://www.caelum.com.br/apostilas)
+# Blibliotecas
+- [📚 Biblioteca de livros em inglês](https://b-ok.lat)
+- [👀 Apostilas Caelum](https://www.caelum.com.br/apostilas)
+
+# Livros
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
 - [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 - [🌀 Deep Learning Book](http://www.deeplearningbook.com.br)
 - [🧠 Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
-- [🐍 Python Data Science Handbook (em inglês)](https://jakevdp.github.io/PythonDataScienceHandbook)
-- [🐍 Think Python: How to Think Like a Computer Scientist (em inglês)](http://greenteapress.com/thinkpython2/html/index.html)
-- [🐍 Invent Your Own Computer Games with Python, 4th Edition (em inglês)](http://inventwithpython.com/invent4thed/chapter0.html)
+- [🔐 Kali Linux Revealed](https://kali.training/lessons/introduction) - em inglês
+- [🐍 Python Data Science Handbook (em inglês)](https://jakevdp.github.io/PythonDataScienceHandbook) - em inglês
+- [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html) - em inglês
+- [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html) - em inglês
 
-- [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
+# Sites
 - [🔗 Blog Imasters](https://imasters.com.br)
-- [:bug: O que é um DEV e porque você deveria se tornar um hoje](https://medium.com/pergunteaodev/o-que-%C3%A9-um-dev-e-porque-voc%C3%AA-deveria-se-tornar-um-hoje-674638a2fe27)
+- [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
+
+# Artigos
+- [🐛 O que é um DEV e porque você deveria se tornar um hoje](https://medium.com/pergunteaodev/o-que-%C3%A9-um-dev-e-porque-voc%C3%AA-deveria-se-tornar-um-hoje-674638a2fe27)
 - [🐙 Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
 - [🐙 Github planeja remover termos como ‘master’ em sua plataforma](https://gizmodo.uol.com.br/github-planeja-remover-termos-como-master)
 - [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
