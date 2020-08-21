@@ -1,5 +1,6 @@
 # Blibliotecas
-- [📚 Biblioteca de livros em inglês](https://b-ok.lat)
+- [📚 b-ok](https://b-ok.lat)
+- [📚 libgen](https://libgen.is)
 - [👀 Apostilas Caelum](https://www.caelum.com.br/apostilas)
 
 # Livros
@@ -8,7 +9,7 @@
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 - [🌀 Deep Learning Book](http://www.deeplearningbook.com.br)
-- [🧠 Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
+- [♟️ Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
 - [🔐 Kali Linux Revealed](https://kali.training/lessons/introduction) - em inglês
 - [🐍 Python Data Science Handbook (em inglês)](https://jakevdp.github.io/PythonDataScienceHandbook) - em inglês
 - [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html) - em inglês
