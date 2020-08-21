@@ -1,10 +1,8 @@
 - ✏ Design
-  - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"
-  - [Whinsical](https://whimsical.com) - Prototipação e diagramas
-  - [Figma](https://www.figma.com) - Prototipação e diagramas
+  - Criar diagramas: [Excalidraw](https://excalidraw.com) | [Whinsical](https://whimsical.com) | [Figma](https://www.figma.com)
+  - Ilustrações: [Undraw](https://undraw.co/illustrations) | [Manypixels](https://www.manypixels.co/gallery) | [Ira Design](https://www.manypixels.co/gallery)
 - ☁ Programação em nuvem:
-  - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com)
-  - [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
+  - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com) | [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - [🔗 TinyURL](https://tinyurl.com) - encurtador de urls
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
