@@ -1,15 +1,18 @@
 # Youtube
-- [🎓 Futura](https://www.youtube.com/c/CanalfuturaOrgBr) - Ensino Fundamental
+- 🎓 Ensino Fundamental 
+  - [Futura](https://www.youtube.com/c/CanalfuturaOrgBr)
 - 🎨 Design
   - [Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw) | [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
-- [🎵 Bruno Henriques Hasper](https://www.youtube.com/playlist?list=PLg4tPBTePKk2VtqY7_fBoHEHpizYKxb1K) - Tablaturas
+- 🎵 Tablaturas 
+  - [Bruno Henriques Hasper](https://www.youtube.com/playlist?list=PLg4tPBTePKk2VtqY7_fBoHEHpizYKxb1K)
 - 💻 Geral
   - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo) | 
   [Canal T.I.](https://www.youtube.com/c/CanalTIoficial) | 
   [RBtech](https://www.youtube.com/c/RBTechinfo) | 
   [Origamid](https://www.youtube.com/c/Origamid) | 
   [Hcode](https://www.youtube.com/c/HcodeBrasil)
-- [⛏️ Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q) - Linguagem C
+- ⛏️ Linguagem C
+  -[Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q)
 - 💡 Javascript
   - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) | 
   [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) | 
@@ -18,10 +21,12 @@
   - [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | 
   [Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos) | 
   [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
-- [🔮 Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - C#, .Net, Flutter...
-- [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
+- 🔮 C#, .Net, Flutter..
+  - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+
 - ⚙ Hardware e Artesanato
   - [Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) |
+  [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) |
   [Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9) |
   [Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
 
