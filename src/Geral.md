@@ -1,24 +1,29 @@
 # Youtube
 - [🎓 Futura](https://www.youtube.com/c/CanalfuturaOrgBr) - Ensino Fundamental
-- [🎨 Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw) - Design
-- [🎨 Clube do Design](https://www.youtube.com/c/ClubedoDesign) - Design
+- 🎨 Design
+  - [Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw) | [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
 - [🎵 Bruno Henriques Hasper](https://www.youtube.com/playlist?list=PLg4tPBTePKk2VtqY7_fBoHEHpizYKxb1K) - Tablaturas
-- [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
-- [💻 Canal T.I.](https://www.youtube.com/c/CanalTIoficial) - Geral
-- [💻 RBtech](https://www.youtube.com/c/RBTechinfo) - Geral
-- [💻 Origamid](https://www.youtube.com/c/Origamid) - Geral
+- 💻 Geral
+  - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo) | 
+  [Canal T.I.](https://www.youtube.com/c/CanalTIoficial) | 
+  [RBtech](https://www.youtube.com/c/RBTechinfo) | 
+  [Origamid](https://www.youtube.com/c/Origamid) | 
+  [Hcode](https://www.youtube.com/c/HcodeBrasil)
 - [⛏️ Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q) - Linguagem C
-- [💡 Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Javascript, ReactJs e NodeJs
-- [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
-- [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
-- [🐍 Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) - Python
-- [🐍 Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos) - Python
-- [🐍 Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-) - Python 
+- 💡 Javascript
+  - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) | 
+  [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) | 
+  [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- 🐍 Python
+  - [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | 
+  [Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos) | 
+  [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
 - [🔮 Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - C#, .Net, Flutter...
 - [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
-- [⚙ Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) - Aprenda a mexer em ferramentas, construir circuitos eletrônicos, montar projetos...
-- [⚙ Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9) - Aprenda a montar um pc
-- [⚙ Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
+- ⚙ Hardware e Artesanato
+  - [Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) |
+  [Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9) |
+  [Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
 
 # Outros sites
 - [🎓 Novi](www.novienem.com.br) - Pré Enem
@@ -47,4 +52,4 @@
 - [💎 Onebitcode](https://onebitcode.com/cursos) - Ruby, Rails, Vue
 - [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
 
-[Voltar](../README.md)
+[👈 Voltar](../README.md)
