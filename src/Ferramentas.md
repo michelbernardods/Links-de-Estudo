@@ -1,9 +1,10 @@
 - ✏ Design
-  - Criar diagramas: [Excalidraw](https://excalidraw.com) | [Whinsical](https://whimsical.com) | [Figma](https://www.figma.com)
+  - Diagramas e Prototipação: [Excalidraw](https://excalidraw.com) | [Whinsical](https://whimsical.com) | [Figma](https://www.figma.com)
   - Ilustrações: [Undraw](https://undraw.co/illustrations) | [Manypixels](https://www.manypixels.co/gallery) | [Ira Design](https://www.manypixels.co/gallery)
-- ☁ Programação em nuvem:
-  - [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com) | [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
-- [☁ Notion](https://www.notion.so) - Anotações em nuvem
+  - Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
+- ☁ Nuvem:
+  - Programação: [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com) | [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
+  - Anotações: [Notion](https://www.notion.so) | [Keep](https://keep.google.com)
 - [🔗 TinyURL](https://tinyurl.com) - encurtador de urls
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
@@ -17,4 +18,4 @@
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [💡 1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
 
-[Voltar](../README.md)
+[👈 Voltar](../README.md)
