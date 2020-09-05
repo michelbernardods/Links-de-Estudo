@@ -8,12 +8,14 @@
 - [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
-- [🌀 Deep Learning Book](http://www.deeplearningbook.com.br)
+- [🌀 Deep Learning](http://www.deeplearningbook.com.br)
+- [📶 Redes de Computadores I](https://github.com/Nerd0000/Links-de-Estudo/blob/master/src/Apostila_Redes.pdf)
 - [♟️ Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
-- [🔐 Kali Linux Revealed](https://kali.training/lessons/introduction) - em inglês
-- [🐍 Python Data Science Handbook (em inglês)](https://jakevdp.github.io/PythonDataScienceHandbook) - em inglês
-- [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html) - em inglês
-- [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html) - em inglês
+## Livros em inglês
+- [🔐 Kali Linux Revealed](https://kali.training/lessons/introduction)
+- [🐍 Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
+- [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
+- [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html)
 
 # Sites
 - [🔗 Blog Imasters](https://imasters.com.br)
@@ -34,4 +36,4 @@
 - [🌑 Navegador Opera GX pode forçar modo escuro em qualquer página da web](https://canaltech.com.br/apps/navegador-opera-gx-agora-pode-forcar-modo-escuro-em-qualquer-pagina-da-web-166772)
 - [💻 3 dos melhores softwares da atualidade para acesso remoto](https://www.tecmundo.com.br/software/154216-3-melhores-softwares-atualidade-acesso-remoto.htm)
 
-[Voltar](../README.md)
+[👈 Voltar](../README.md)
