@@ -5,6 +5,7 @@
 - ☁ Nuvem
   - Programação: [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com) | [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
   - Anotações: [Notion](https://www.notion.so) | [Keep](https://keep.google.com)
+  - S.O.: [OnWorks](https://www.onworks.net)
 - 🔎 Pesquisas/estatísticas
   - [Google trends](https://trends.google.com.br/trends/?geo=BR)
   - [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
