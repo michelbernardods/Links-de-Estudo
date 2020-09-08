@@ -2,9 +2,13 @@
   - Diagramas e Prototipação: [Excalidraw](https://excalidraw.com) | [Whinsical](https://whimsical.com) | [Figma](https://www.figma.com)
   - Ilustrações: [Undraw](https://undraw.co/illustrations) | [Manypixels](https://www.manypixels.co/gallery) | [Ira Design](https://www.manypixels.co/gallery)
   - Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
-- ☁ Nuvem:
+- ☁ Nuvem
   - Programação: [Slingcode](https://slingcode.net)  | [Gitpod](https://gitpod.io)  | [Glitch](https://glitch.com) | [Ideone](https://ideone.com) | [Code Sandbox](https://codesandbox.io) | [Codepen](https://codepen.io) | [Repl.it](https://repl.it) | [Stackblitz](https://stackblitz.com)
   - Anotações: [Notion](https://www.notion.so) | [Keep](https://keep.google.com)
+- 🔎 Pesquisas/estatísticas
+  - [Google trends](https://trends.google.com.br/trends/?geo=BR)
+  - [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
+  - [GitHut](https://madnight.github.io/githut)
 - [🔗 TinyURL](https://tinyurl.com) - encurtador de urls
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
