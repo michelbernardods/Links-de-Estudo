@@ -24,8 +24,7 @@
 </p>
 
 📹 [Cursos com certificado](./src/Certificado.md) | 
-[Cursos em geral](./src/Geral.md) | 
-[Cursos Udemy](./src/Udemy.md) 
+[Cursos em geral](./src/Geral.md)
 
 <p></p>
 
