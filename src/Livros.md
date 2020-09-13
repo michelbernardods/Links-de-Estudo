@@ -39,5 +39,6 @@
 
 # Artigos em inglês
 - [💡 How to play an mp3 file in ReactJS](https://www.cluemediator.com/how-to-play-an-mp3-file-in-reactjs)
+- [🌐 I built an online code editor](https://dev.to/chr15m/i-built-an-online-code-editor-3aj5)
 
 [👈 Voltar](../README.md)
