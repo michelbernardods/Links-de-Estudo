@@ -1,3 +1,5 @@
+- 🎉 Eventos
+  - [Sympla](https://www.sympla.com.br)
 - 🔐 InfoSec
   - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - 🔎 Pesquisas/estatísticas
