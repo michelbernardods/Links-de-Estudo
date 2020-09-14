@@ -1,8 +1,9 @@
-- [:bug: Pratique programação](https://github.com/luanribeiros/daily-code) (Sites em inglês)
-- 💻 Geral
+- 🏆 Desafios de programação
+  - [30 dias De CSS](https://github.com/MilenaCarecho/30diasDeCSS)
+  - [Daily Code](https://github.com/luanribeiros/daily-code) - em inglês
+- 💻 Programação em geral
   - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
   - [4noobs](https://github.com/he4rt/4noobs)
-  - [Estudos](https://github.com/Leandro-Araujo/estudos)
   - [Lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
   - [Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
 - [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
@@ -10,4 +11,4 @@
 - [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
 - [🐘 Laravel](https://github.com/lemesdaniel/laravel-links)
 
-[Voltar](../README.md)
+[👈 Voltar](../README.md)
