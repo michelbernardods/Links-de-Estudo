@@ -1,3 +1,4 @@
+# Sites
 - 🎓 Pré Enem
   - [Novi](www.novienem.com.br)
 - 💬 Curso de idiomas
@@ -30,13 +31,14 @@
   [Next Level Week](https://nextlevelweek.com)
 - 💎 Ruby, Rails, Vue
   - [Onebitcode](https://onebitcode.com/cursos)
+- 🐢 Vue
+  - [Vuejs Brasil](http://www.vuejs-brasil.com.br)
 - 🐍 Python
   - [Python para análise de dados](https://geracaoanalitica.com.br) |
   [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
 - 🔐 Segurança da informação ofensiva
   - [Shellter Labs](https://shellterlabs.com/pt) |
   Desec [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
-
 
 # Youtube
 - 🎓 Ensino Fundamental 
@@ -57,12 +59,27 @@
   - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) | 
   [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) | 
   [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+  - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) |
+  [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R) |
+  [ES6 Serie](https://www.youtube.com/playlist?list=PL77JVjKTJT2gS3pkXAamNG2EakHA53HcS)
+  - [Curso de ECMAScript 2015 (ES6)](https://www.youtube.com/playlist?list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2) |
+  [Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq) |
+  [Grunt vs Gulp](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTkUx1tVVPumohXVMDwfQcV)
+- 🛡️ Angular.js
+  - [Tudo sobre Angular.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) |
+  [Bemean - Angular.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df)
+- 🐙 Github
+  - [Git e Github](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16) |
+  [Git](https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
 - 🐍 Python
   - [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | 
   [Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos) | 
   [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
 - 🔮 C#, .Net, Flutter..
   - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+- 🗄 Banco de dados
+  - [Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY) |
+  [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
 - ⚙ Hardware e Artesanato
   - [Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) |
   [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) |
