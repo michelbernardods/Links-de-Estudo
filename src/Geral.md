@@ -1,17 +1,17 @@
 # Sites
 - 🎓 Pré Enem
   - [Novi](www.novienem.com.br)
-- 💬 Curso de idiomas
+- 💬 Idiomas
   - [Duolingo](https://pt.duolingo.com)
 - 🎨 Design
   - [Crehana](https://www.crehana.com/br/cursos-gratis) 
-- 💻 Programação em geral 
+- 💻 Programação
   - [CC50 - O Curso de Ciência da Computação de  Harvard, no Brasil](https://materiais.estudarfora.org.br/cc50/)
   - [Jornada do dev](https://jornadadodev.com.br/cursos) |
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity) |
   [Codando.org](https://codando.org/material-gratuito) |
   [Svelte, Vue.js, Typescript e Laravel Voyager](https://classes.vedovelli.com.br/courses)
-- ⌨️ Treinamentos em digitação
+- ⌨️ Digitação
   - [Agile Fingers](https://agilefingers.com/pt) |
     [Typing](https://www.typing.com/br) |
     [ZType](https://zty.pe/) |
@@ -29,9 +29,8 @@
   - [Site](https://rocketseat.com.br) |
   [Blog](https://blog.rocketseat.com.br) |
   [Next Level Week](https://nextlevelweek.com)
-- 💎 Ruby, Rails, Vue
+- 💎 Ruby, Vue...
   - [Onebitcode](https://onebitcode.com/cursos)
-- 🐢 Vue
   - [Vuejs Brasil](http://www.vuejs-brasil.com.br)
 - 🐍 Python
   - [Python para análise de dados](https://geracaoanalitica.com.br) |
@@ -47,7 +46,7 @@
   - [Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw) | [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
 - 🎵 Tablaturas 
   - [Bruno Henriques Hasper](https://www.youtube.com/playlist?list=PLg4tPBTePKk2VtqY7_fBoHEHpizYKxb1K)
-- 💻 Informática em geral
+- 💻 Informática
   - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo) | 
   [Canal T.I.](https://www.youtube.com/c/CanalTIoficial) | 
   [RBtech](https://www.youtube.com/c/RBTechinfo) | 
@@ -77,10 +76,12 @@
   [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
 - 🔮 C#, .Net, Flutter..
   - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+- 📱 Swift
+  - [Swift e Swift Ui - Stanford](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
 - 🗄 Banco de dados
   - [Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY) |
   [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
-- ⚙ Hardware e Artesanato
+- ⚙ Hardware
   - [Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) |
   [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) |
   [Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9) |
