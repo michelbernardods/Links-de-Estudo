@@ -6,10 +6,10 @@
 # Livros
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
 - [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
-- [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
-- [🌀 Deep Learning](http://www.deeplearningbook.com.br)
 - [📶 Redes de Computadores I](https://github.com/Nerd0000/Links-de-Estudo/blob/master/src/Apostila_Redes.pdf)
+- [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
+- [🌀 Deep Learning](http://www.deeplearningbook.com.br)
 - [♟️ Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
 
 # Livros em inglês
@@ -42,5 +42,6 @@
 # Artigos em inglês
 - [💡 How to play an mp3 file in ReactJS](https://www.cluemediator.com/how-to-play-an-mp3-file-in-reactjs)
 - [🌐 I built an online code editor](https://dev.to/chr15m/i-built-an-online-code-editor-3aj5)
+- [🐲 Build forms with VueJs](https://vueformulate.com)
 
 [👈 Voltar](../README.md)
