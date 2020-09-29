@@ -24,6 +24,6 @@
 
 <p></p>
 
-📚 [Livros, Artigos..](./src/Livros.md) |
+📚 [Blogs, Livros..](./src/Livros.md) |
 [Ferramentas](./src/Ferramentas.md) | 
 [Repositórios no GitHub](./src/GitHub.md)
