@@ -17,10 +17,6 @@
   <img alt="Contribuidores" src="https://img.shields.io/github/contributors/Nerd0000/Links-de-Estudo">
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
-
-  <a href="https://github.com/Nerd0000/Links-de-Estudo/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Links-de-Estudo.svg">
-  </a>
 </p>
 
 📹 [Cursos com certificado](./src/Certificado.md) | 
