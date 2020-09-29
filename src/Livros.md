@@ -1,7 +1,7 @@
-# Blibliotecas
-- [📚 b-ok](https://b-ok.lat)
-- [📚 libgen](https://libgen.is)
-- [👀 Apostilas Caelum](https://www.caelum.com.br/apostilas)
+# Bibliotecas
+- [b-ok](https://b-ok.lat)
+- [libgen](https://libgen.is)
+- [Apostilas Caelum](https://www.caelum.com.br/apostilas)
 
 # Livros
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
@@ -18,9 +18,10 @@
 - [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
 - [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html)
 
-# Sites
-- [🔗 Blog Imasters](https://imasters.com.br)
-- [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
+# Blogs
+- [Estágio Online](https://estagioonline.com/blog)
+- [Imasters](https://imasters.com.br)
+- [How To Geek](https://www.howtogeek.com) - em inglês
 
 # Artigos
 - [🐛 O que é um DEV e porque você deveria se tornar um hoje](https://medium.com/pergunteaodev/o-que-%C3%A9-um-dev-e-porque-voc%C3%AA-deveria-se-tornar-um-hoje-674638a2fe27)
