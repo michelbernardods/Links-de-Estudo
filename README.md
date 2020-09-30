@@ -19,11 +19,11 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
 </p>
 
-📹 [Cursos com certificado](./src/Certificado.md) | 
+📹 [Cursos com certificado](./src/Certificado.md),
 [Cursos em geral](./src/Geral.md)
 
 <p></p>
 
-📚 [Blogs, Livros..](./src/Livros.md) |
-[Ferramentas](./src/Ferramentas.md) | 
-[Repositórios no GitHub](./src/GitHub.md)
+📚 [Ferramentas](./src/Ferramentas.md), 
+[Repositórios no GitHub](./src/GitHub.md),
+[Blogs, Livros..](./src/Livros.md)
