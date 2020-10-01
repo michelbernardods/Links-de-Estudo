@@ -71,7 +71,9 @@
 - 🐙 Github
   - [Git e Github](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16),
   [Git](https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
-- 🐍 Python
+- Clojure
+  - [Uma introdução a linguagem Clojure com Gilmar Soares](https://www.youtube.com/watch?v=SBtEou4qBzw)
+-🐍 Python
   - [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo),
   [Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos),
   [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-),
