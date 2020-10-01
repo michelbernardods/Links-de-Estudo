@@ -51,8 +51,7 @@
   [Canal T.I.](https://www.youtube.com/c/CanalTIoficial), 
   [RBtech](https://www.youtube.com/c/RBTechinfo),
   [Origamid](https://www.youtube.com/c/Origamid), 
-  [Hcode](https://www.youtube.com/c/HcodeBrasil),
-  [CodeShow](https://www.youtube.com/user/brunovegan)
+  [Hcode](https://www.youtube.com/c/HcodeBrasil)
 - ⛏️ Linguagem C
   - [Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q)
 - 💡 Javascript
@@ -74,7 +73,8 @@
 - 🐍 Python
   - [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo),
   [Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos),
-  [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
+  [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-),
+  [CodeShow](https://www.youtube.com/user/brunovegan)
 - 🔮 C#, .Net, Flutter..
   - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 - 📱 Swift
