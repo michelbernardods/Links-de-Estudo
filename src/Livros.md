@@ -26,7 +26,7 @@
   - [🐍 Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
   - [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   - [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html)
-  - [ Real World Ocaml](https://dev.realworldocaml.org/toc.html)
+  - [🐫 Real World Ocaml](https://dev.realworldocaml.org/toc.html)
 # Blogs
 
 - Português
