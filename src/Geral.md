@@ -92,3 +92,4 @@
   [Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
 
 [👈 Voltar](../README.md)
+ 
