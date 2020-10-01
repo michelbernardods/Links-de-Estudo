@@ -16,7 +16,8 @@
     [Typing](https://www.typing.com/br),
     [ZType](https://zty.pe/),
     [Type racer](https://play.typeracer.com/),
-    [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese)
+    [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese),
+    [Typing Works](https://typing.works/)
 - 🐧 Linux
   - [Introdução ao Linux](http://884a37b.contato.site/captura-introducao-1?fbclid=IwAR1Z2FBbXsSt0eKmA9Kho3_A7fzBbJm7WaE3qTCHkHIFLVTULBV19fC5q0c)
 - 🌐 Web
