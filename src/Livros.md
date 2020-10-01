@@ -48,6 +48,7 @@
   - 🐙 Github
     - [Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
     - [Github planeja remover termos como ‘master’ em sua plataforma](https://gizmodo.uol.com.br/github-planeja-remover-termos-como-master)
+    - [Github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
   
   - [🐍 The Zen of Python - Lista com 19 princípios para escrever bons códigos na linguagem](https://pythonacademy.com.br/zen-of-python)
   
