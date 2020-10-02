@@ -17,6 +17,8 @@
 - [🐸 Hashtag treinamentos](https://www.hashtagtreinamentos.com/) - Curso de Excel do básico ao avançado, Power BI, PowerPoint, VBA...
 
 # Sites
+- 🌎 Geral
+  - [Aprimoramente](https://aprimoramente.com/areas/gratuitos/online)
 - 🎓 Pré Enem
   - [Novi](www.novienem.com.br)
 - 💬 Idiomas
