@@ -1,6 +1,6 @@
 - 🏆 Desafios de programação
-  - [100 days css](https://100dayscss.com/) - em inglês
-  - [30 dias De CSS](https://github.com/MilenaCarecho/30diasDeCSS)
+  - [30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
+  - [100 days Css](https://100dayscss.com/) - em inglês
   - [Daily Code](https://github.com/luanribeiros/daily-code) - em inglês
 - 💻 Programação em geral
   - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
