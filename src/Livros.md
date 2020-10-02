@@ -6,8 +6,8 @@
 - Vários idiomas
   - [Z-Library](https://b-ok.lat)
   - [Library Genesis](https://libgen.is)
-  - [Free Computer Books](https://freecomputerbooks.com/)
-  - [PDF Drive](https://www.pdfdrive.com/)
+  - [Free Computer Books](https://freecomputerbooks.com)
+  - [PDF Drive](https://www.pdfdrive.com)
 
 # Livros
 
@@ -34,6 +34,7 @@
   - [Imasters](https://imasters.com.br)
 
 - Inglês
+  - [Free Code Camp](https://www.freecodecamp.org/news)
   - [How To Geek](https://www.howtogeek.com)
 
 # Artigos
@@ -71,6 +72,9 @@
   - 💡 Javascript
     - [JavaScript Best Practices for Readable and Maintainable Code](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)
     - [How to play an mp3 file in ReactJS](https://www.cluemediator.com/how-to-play-an-mp3-file-in-reactjs)
+  
+  - 🐍 Python
+    - [Python New Line and How to Python Print Without a Newline](https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline)
   
   - [🐲 Build forms with VueJs](https://vueformulate.com)
 
