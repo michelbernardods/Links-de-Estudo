@@ -55,6 +55,7 @@
   - [🐍 The Zen of Python - Lista com 19 princípios para escrever bons códigos na linguagem](https://pythonacademy.com.br/zen-of-python)
   
   - 💡 JavaScript
+    - [8 jogos clássicos recriados em Javascript](http://gabsferreira.com/8-jogos-classicos-refeitos-em-javascript) 
     - [Como hospedar um site feito em React usando o Github](https://medium.com/@rogeriomattos38/como-hospedar-um-site-feito-em-react-usando-o-github-5e226e2b4cdc) 
     - [Como implementar o Algoritmo do Fogo do DOOM](https://medium.com/@FilipeDeschamps/tutorial-completo-de-como-implementar-o-algoritmo-do-fogo-do-doom-41d38ac39fa7)
     - [Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
