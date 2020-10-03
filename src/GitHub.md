@@ -2,6 +2,7 @@
   - [30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
   - [100 days Css](https://100dayscss.com/) - em inglês
   - [Daily Code](https://github.com/luanribeiros/daily-code) - em inglês
+  - [JavaScript 30](https://javascript30.com/) - em inglês
 - 💻 Programação em geral
   - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
   - [4noobs](https://github.com/he4rt/4noobs)
