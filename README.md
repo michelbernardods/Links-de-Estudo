@@ -19,6 +19,6 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
 </p>
 
-- 📚 <a href="./src/Cursos.md"> Cursos </a>,
-<a href="./src/Materiais.md"> Materiais </a>,
-<a href="./src/Ferramentas.md"> Ferramentas </a>,
+- 📚 <a href="./src/Cursos.md"> Cursos</a>,
+<a href="./src/Materiais.md"> Materiais</a>,
+<a href="./src/Ferramentas.md"> Ferramentas</a>
