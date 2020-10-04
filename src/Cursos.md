@@ -66,6 +66,7 @@
 - 🎨 Design
   - [Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw), [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
 - 🎵 Tablaturas 
+  - [Tab Sheet Music](https://www.youtube.com/c/TabSheetMusic)
   - [Bruno Henriques Hasper](https://www.youtube.com/playlist?list=PLg4tPBTePKk2VtqY7_fBoHEHpizYKxb1K)
 - 💻 Informática
   - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo),
