@@ -105,4 +105,7 @@
   
   - [🐲 Build forms with VueJs](https://vueformulate.com)
 
+# Youtube
+- [NextJs em 10 minutos](https://youtu.be/K5NDY19sSFA)
+
 [👈 Voltar](../README.md)
