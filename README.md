@@ -20,6 +20,5 @@
 </p>
 
 - 📚 <a href="./src/Cursos.md"> Cursos </a>,
-<a href="./src/Livros.md"> Materiais </a>,
+<a href="./src/Materiais.md"> Materiais </a>,
 <a href="./src/Ferramentas.md"> Ferramentas </a>,
-<a href="./src/GitHub.md"> Repositórios no GitHub </a>
