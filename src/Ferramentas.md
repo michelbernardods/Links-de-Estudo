@@ -40,7 +40,6 @@
     [Figma](https://www.figma.com)
     
   - Ilustrações:
-  
     [Undraw](https://undraw.co/illustrations),
     [Manypixels](https://www.manypixels.co/gallery),
     [Ira Design](https://www.manypixels.co/gallery)
