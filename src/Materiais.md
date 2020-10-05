@@ -3,18 +3,18 @@
 - 🏆 Desafios de programação
 
   - Português
-    - [30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
+    - [🎨 30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
     
   - Inglês
-    - [100 days Css](https://100dayscss.com)
-    - [Daily Code](https://github.com/luanribeiros/daily-code)
-    - [JavaScript 30](https://javascript30.com)
+    - [🎨 100 days Css](https://100dayscss.com)
+    - [🌐 Daily Code](https://github.com/luanribeiros/daily-code)
+    - [💡 JavaScript 30](https://javascript30.com)
   
 - 💻 Programação em geral
-  - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
-  - [4noobs](https://github.com/he4rt/4noobs)
-  - [Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
-  - [Resumos](https://github.com/levxyca/studynotes)
+  - [📔 Links uteis](https://github.com/OfficialMarinho/Links-uteis)
+  - [📔 4noobs](https://github.com/he4rt/4noobs)
+  - [📔 Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
+  - [📔 Resumos](https://github.com/levxyca/studynotes)
   
 - [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
 
@@ -28,14 +28,14 @@
 
 - Português
 
-  - [Caelum Tecnologia](https://www.caelum.com.br/apostilas)
+  - [📚 Caelum Tecnologia](https://www.caelum.com.br/apostilas)
   
 - Vários idiomas
 
-  - [Z-Library](https://b-ok.lat)
-  - [Library Genesis](https://libgen.is)
-  - [Free Computer Books](https://freecomputerbooks.com)
-  - [PDF Drive](https://www.pdfdrive.com)
+  - [📚 Z-Library](https://b-ok.lat)
+  - [📚 Library Genesis](https://libgen.is)
+  - [📚 Free Computer Books](https://freecomputerbooks.com)
+  - [📚 PDF Drive](https://www.pdfdrive.com)
 
 # Livros
 
