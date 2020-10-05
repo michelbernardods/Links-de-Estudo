@@ -13,7 +13,6 @@
 - 💻 Programação em geral
   - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
   - [4noobs](https://github.com/he4rt/4noobs)
-  - [Lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
   - [Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
   - [Resumos](https://github.com/levxyca/studynotes)
   
@@ -28,9 +27,11 @@
 # Bibliotecas
 
 - Português
+
   - [Caelum Tecnologia](https://www.caelum.com.br/apostilas)
   
 - Vários idiomas
+
   - [Z-Library](https://b-ok.lat)
   - [Library Genesis](https://libgen.is)
   - [Free Computer Books](https://freecomputerbooks.com)
@@ -39,6 +40,7 @@
 # Livros
 
 - Português
+
   - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
   - [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
   - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
@@ -49,20 +51,42 @@
   - [🔐 Fundamentos em Segurança Cibernética](https://github.com/Nerd0000/Links-de-Estudo/blob/master/src/Apostila_Redes.pdf)
 
 - Inglês
+
+  - [🐙 Git Pro](https://git-scm.com/book/en/v2)
   - [🔐 Kali Linux Revealed](https://kali.training/lessons/introduction)
   - [🐍 Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
   - [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   - [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html)
   - [🐫 Real World Ocaml](https://dev.realworldocaml.org/toc.html)
+
+
+# Videos
+
+- Português
+
+  - [NextJs em 10 minutos](https://youtu.be/K5NDY19sSFA)
+  - [Usando Git Direito | Limpando seus Commits!](https://www.youtube.com/watch?v=6OokP-NE49k) 
+  - [Ecossistema do GIT](https://www.youtube.com/watch?v=6Czd1Yetaac)
+
+- Inglês
+
+  - [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)   
+
 # Blogs
 
 - Português
-  - [Estágio Online](https://estagioonline.com/blog)
-  - [Imasters](https://imasters.com.br)
+
+  - [💻 Estágio Online](https://estagioonline.com/blog)
+  - [💻 Imasters](https://imasters.com.br)
 
 - Inglês
-  - [Free Code Camp](https://www.freecodecamp.org/news)
-  - [How To Geek](https://www.howtogeek.com)
+
+  - [💻 Free Code Camp](https://www.freecodecamp.org/news)
+  - [💻 How To Geek](https://www.howtogeek.com)
+  - 💡 React
+    - [Overreacted](https://overreacted.io)
+    - [Kent C. Dodds Blog](https://kentcdodds.com/blog) 
+    - [Alligator.io - Posts About React](https://alligator.io/react)
 
 # Artigos
 
@@ -76,9 +100,10 @@
     - [3 dos melhores softwares da atualidade para acesso remoto](https://www.tecmundo.com.br/software/154216-3-melhores-softwares-atualidade-acesso-remoto.htm)
   
   - 🐙 Github
+    - [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+    - [Github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
     - [Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
     - [Github planeja remover termos como ‘master’ em sua plataforma](https://gizmodo.uol.com.br/github-planeja-remover-termos-como-master)
-    - [Github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
   
   - [🐍 The Zen of Python - Lista com 19 princípios para escrever bons códigos na linguagem](https://pythonacademy.com.br/zen-of-python)
   
@@ -96,6 +121,9 @@
   
   - [💻 I built an online code editor](https://dev.to/chr15m/i-built-an-online-code-editor-3aj5)
   
+  - 🐙 Github
+    - [Become a git guru by Bitbucket](https://www.atlassian.com/git/tutorials)
+  
   - 💡 Javascript
     - [JavaScript Best Practices for Readable and Maintainable Code](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)
     - [How to play an mp3 file in ReactJS](https://www.cluemediator.com/how-to-play-an-mp3-file-in-reactjs)
@@ -104,8 +132,5 @@
     - [Python New Line and How to Python Print Without a Newline](https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline)
   
   - [🐲 Build forms with VueJs](https://vueformulate.com)
-
-# Youtube
-- [NextJs em 10 minutos](https://youtu.be/K5NDY19sSFA)
 
 [👈 Voltar](../README.md)
