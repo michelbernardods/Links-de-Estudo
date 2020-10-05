@@ -1,11 +1,17 @@
 - 🎉 Eventos
+
   - [Sympla](https://www.sympla.com.br)
+  
 - 🔐 InfoSec
+
   - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
+  
 - 🔎 Pesquisas/estatísticas
+
   - [Google trends](https://trends.google.com.br/trends/?geo=BR),
   [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020),
   [GitHut](https://madnight.github.io/githut)
+  
 - ☁ Nuvem
   - Anotações: 
     [Notion](https://www.notion.so),
