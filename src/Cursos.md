@@ -23,20 +23,28 @@
 - [🐸 Hashtag treinamentos](https://www.hashtagtreinamentos.com/) - Curso de Excel do básico ao avançado, Power BI, PowerPoint, VBA...
 
 # Sites
+
 - 🌎 Geral
   - [Aprimoramente](https://aprimoramente.com/areas/gratuitos/online)
+  
 - 🎓 Pré Enem
   - [Novi](www.novienem.com.br)
+  
 - 💬 Idiomas
   - [Duolingo](https://pt.duolingo.com)
+  
 - 🎨 Design
   - [Crehana](https://www.crehana.com/br/cursos-gratis) 
+  
 - 💻 Programação
+
   - [CC50 - O Curso de Ciência da Computação de  Harvard, no Brasil](https://materiais.estudarfora.org.br/cc50/)
+  
   - [Jornada do dev](https://jornadadodev.com.br/cursos),
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
   [Codando.org](https://codando.org/material-gratuito),
   [Svelte, Vue.js, Typescript e Laravel Voyager](https://classes.vedovelli.com.br/courses)
+  
 - ⌨️ Digitação
   - [Agile Fingers](https://agilefingers.com/pt),
     [Typing](https://www.typing.com/br),
