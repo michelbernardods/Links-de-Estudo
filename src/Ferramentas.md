@@ -42,7 +42,7 @@
   - Ilustrações:
     [Undraw](https://undraw.co/illustrations),
     [Manypixels](https://www.manypixels.co/gallery),
-    [Ira Design](https://www.manypixels.co/gallery)
+    [Ira Design](https://iradesign.io/gallery/illustrations)
     
   - Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
   
