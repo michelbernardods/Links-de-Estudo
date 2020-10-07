@@ -127,7 +127,7 @@
   - 💡 Javascript
     - [JavaScript Best Practices for Readable and Maintainable Code](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)
     - [How to play an mp3 file in ReactJS](https://www.cluemediator.com/how-to-play-an-mp3-file-in-reactjs)
-  
+    - [Top Repos to Boost Your JavaScript Knowledge](https://dev.to/aumayeung/top-repos-to-boost-your-javascript-knowledge-2c29)
   - 🐍 Python
     - [Python New Line and How to Python Print Without a Newline](https://www.freecodecamp.org/news/python-new-line-and-how-to-python-print-without-a-newline)
   
