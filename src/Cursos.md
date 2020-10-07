@@ -51,7 +51,6 @@
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
   [Codando.org](https://codando.org/material-gratuito),
   [Svelte, Vue.js, Typescript e Laravel Voyager](https://classes.vedovelli.com.br/courses)
-  - [Mini curso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/)
   
 - ⌨️ Digitação
 
@@ -73,7 +72,8 @@
   [Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI)
 
 - 💡 Javascript
-  
+
+  - [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/)
   - [Node.js para Iniciantes](https://treinamento.nodebr.org)
 
 - 🚀 Rocketseat
