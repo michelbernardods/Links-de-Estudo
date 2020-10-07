@@ -51,6 +51,7 @@
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
   [Codando.org](https://codando.org/material-gratuito),
   [Svelte, Vue.js, Typescript e Laravel Voyager](https://classes.vedovelli.com.br/courses)
+  - [Mini curso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/)
   
 - ⌨️ Digitação
 
