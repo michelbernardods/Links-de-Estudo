@@ -51,7 +51,7 @@
   - [Jornada do dev](https://jornadadodev.com.br/cursos),
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
   [Codando.org](https://codando.org/material-gratuito),
-  [Svelte, Vue.js, Typescript e Laravel Voyager](https://classes.vedovelli.com.br/courses)
+  [Fabio Vedovelli](https://classes.vedovelli.com.br/courses)
   
 - ⌨️ Digitação
 
