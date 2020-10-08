@@ -3,24 +3,21 @@
 - 💻 Informática
 
   - Português: 
-  
     - [Digital Innovation One](https://digitalinnovation.one),
     [School of net](https://www.schoolofnet.com/cursos/gratuitos),
     [4Linux](https://4linux.com.br/cursos-gratis),
-    
     - [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos),
     [Tec Forest](https://www.tecforest.com.br/category/cursos),
     [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php),
     [Solyd](https://solyd.com.br/treinamentos)
 
   - Inglês: 
-  
     [Free Code Camp](https://www.freecodecamp.org/learn),
     [Sololearn](https://www.sololearn.com)
     
-- 🐍 Python 
-
-  - Coursera: [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+- 🐍 Python Coursera: 
+    [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), 
+    [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
 
 - [☕ Loiane training](https://loiane.training) - Java, angular, cordova...
 
@@ -28,25 +25,15 @@
 
 # Sites
 
-- 🌎 Geral
+- [🌎 Aprimoramente](https://aprimoramente.com/areas/gratuitos/online) - Geral
 
-  - [Aprimoramente](https://aprimoramente.com/areas/gratuitos/online)
-  
-- 🎓 Pré Enem
+- [🎓 Novi](www.novienem.com.br) - Pré Enem
 
-  - [Novi](www.novienem.com.br)
-  
-- 💬 Idiomas
+- [💬 Duolingo](https://pt.duolingo.com) - Idiomas
 
-  - [Duolingo](https://pt.duolingo.com)
-  
-- 🎨 Design
+- [🎨 Crehana](https://www.crehana.com/br/cursos-gratis) - Design
 
-  - [Crehana](https://www.crehana.com/br/cursos-gratis) 
-  
 - 💻 Programação
-
-  - [CC50 - O Curso de Ciência da Computação de  Harvard, no Brasil](https://materiais.estudarfora.org.br/cc50/)
   
   - [Jornada do dev](https://jornadadodev.com.br/cursos),
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
@@ -61,16 +48,12 @@
     [Type racer](https://play.typeracer.com),
     [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese),
     [Typing Works](https://typing.works)
-    
-- 🐧 Linux
-
-  - [Introdução ao Linux](http://884a37b.contato.site/captura-introducao-1?fbclid=IwAR1Z2FBbXsSt0eKmA9Kho3_A7fzBbJm7WaE3qTCHkHIFLVTULBV19fC5q0c)
 
 - 🌐 Web
-  
-  - [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s),
-  [Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-),
-  [Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI)
+
+  - [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s)
+  - [Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-)
+  - [Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI)
 
 - 💡 Javascript
 
@@ -90,9 +73,9 @@
   
 - 🐍 Python
 
-  - [Python para análise de dados](https://geracaoanalitica.com.br),
-  [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
-  
+  - [Python para análise de dados](https://geracaoanalitica.com.br)
+  - [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
+
 - 🔐 Segurança da informação ofensiva
 
   - Cursos
@@ -105,9 +88,8 @@
 
 # Youtube
 
-- 🎓 Ensino Fundamental 
-  - [Futura](https://www.youtube.com/c/CanalfuturaOrgBr)
-  
+- [🎓 Futura](https://www.youtube.com/c/CanalfuturaOrgBr) - Ensino Fundamental
+
 - 🎨 Design
   - [Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw), [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
   
@@ -119,8 +101,9 @@
 - 💻 Informática
 
   - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo),
-  [Canal T.I.](https://www.youtube.com/c/CanalTIoficial), 
-  [RBtech](https://www.youtube.com/c/RBTechinfo),
+  [Canal T.I.](https://www.youtube.com/c/CanalTIoficial)
+  
+  - [RBtech](https://www.youtube.com/c/RBTechinfo),
   [Origamid](https://www.youtube.com/c/Origamid), 
   [Hcode](https://www.youtube.com/c/HcodeBrasil)
   
