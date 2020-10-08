@@ -101,6 +101,7 @@
   - Bug bounty
     - [Hacker One](https://www.hackerone.com)
     - [Hacker101 CTF](https://www.hacker101.com)
+    - [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
 
 # Youtube
 
