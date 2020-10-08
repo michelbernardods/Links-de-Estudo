@@ -94,8 +94,13 @@
   
 - 🔐 Segurança da informação ofensiva
 
-  - [Shellter Labs](https://shellterlabs.com/pt) |
-  Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
+  - Cursos
+    - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
+    - [Solyd](https://solyd.com.br/treinamentos)
+    
+  - Bug bounty
+    - [Hacker One](https://www.hackerone.com)
+    - [Hacker101 CTF](https://www.hacker101.com)
 
 # Youtube
 
