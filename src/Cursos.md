@@ -20,7 +20,6 @@
     
 - 🐍 Python 
 
-  - [Solyd](https://solyd.com.br/treinamentos/python-basico)
   - Coursera: [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
 
 - [☕ Loiane training](https://loiane.training) - Java, angular, cordova...
