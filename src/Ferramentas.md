@@ -1,51 +1,52 @@
 - 🎉 Eventos
 
   - [Sympla](https://www.sympla.com.br)
-  
+
 - 🔐 InfoSec
 
   - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
-  
+  - [Criptografia](https://www.dcode.fr/en)
+
 - 🔎 Pesquisas/estatísticas
 
   - [Google trends](https://trends.google.com.br/trends/?geo=BR),
   [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020),
   [GitHut](https://madnight.github.io/githut)
-  
+
 - ☁ Nuvem
 
   - Anotações: 
     [Notion](https://www.notion.so),
     [Keep](https://keep.google.com)
-    
+
   - Sistema Operacional: [OnWorks](https://www.onworks.net)
-  
+
   - Programação: 
-  
+
     - [Gitpod](https://gitpod.io),
     [Repl.it](https://repl.it),
     [Codepen](https://codepen.io),
     [Glitch](https://glitch.com)
-    
+
     - [Ideone](https://ideone.com),
     [Code Sandbox](https://codesandbox.io),
     [Slingcode](https://slingcode.net),
     [Stackblitz](https://stackblitz.com)
-    
+
 - ✏ Design
 
   - Diagramas e Prototipação: 
     [Excalidraw](https://excalidraw.com),
     [Whinsical](https://whimsical.com),
     [Figma](https://www.figma.com)
-    
+
   - Ilustrações:
     [Undraw](https://undraw.co/illustrations),
     [Manypixels](https://www.manypixels.co/gallery),
     [Ira Design](https://iradesign.io/gallery/illustrations)
-    
+
   - Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
-  
+
 - [🔗 TinyURL](https://tinyurl.com) - encurtador de urls
 
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
