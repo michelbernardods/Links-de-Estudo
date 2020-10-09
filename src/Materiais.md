@@ -44,11 +44,12 @@
   - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
   - [💡 JavaScript Eloquente - 2ª edição](https://github.com/braziljs/eloquente-javascript)
   - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
-  - [📶 Redes de Computadores I](https://github.com/Nerd0000/Links-de-Estudo/blob/master/src/pdfs/Apostila_Redes.pdf)
+  - [📶 Redes de Computadores I](./pdfs/Apostila_Redes.pdf)
   - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
   - [🌀 Deep Learning](http://www.deeplearningbook.com.br)
   - [♟️ Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
-  - [🔐 Fundamentos em Segurança Cibernética](./pdfs/Apostila_Redes.pdf)
+  - [🔐 Fundamentos em Segurança Cibernética](./pdfs/Fundamentos%20de%20seguranca%20cibernetica.pdf)
+  - [🔐 Segurança de infraestrutura de TI](./pdfs/Segurança%20de%20infraestrutura%20de%20ti.pdf)
 
 - Inglês
 
