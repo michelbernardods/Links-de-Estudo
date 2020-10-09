@@ -20,5 +20,5 @@
 </p>
 
 - 📚 <a href="./src/Cursos.md"> Cursos</a>,
-<a href="./src/Materiais.md"> Materiais</a>,
+<a href="./src/Materiais/Materiais.md"> Materiais</a>,
 <a href="./src/Ferramentas.md"> Ferramentas</a>
