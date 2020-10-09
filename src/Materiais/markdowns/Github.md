@@ -11,7 +11,6 @@
 - 💻 Programação em geral
   - [📔 Links uteis](https://github.com/OfficialMarinho/Links-uteis)
   - [📔 4noobs](https://github.com/he4rt/4noobs)
-  - [📔 Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
   - [📔 Resumos](https://github.com/levxyca/studynotes)
   
 - [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
