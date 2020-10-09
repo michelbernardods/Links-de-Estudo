@@ -1,4 +1,4 @@
-# ⚙ Tecnologia
+# Tecnologia
 
 - Estatísticas
 
@@ -37,7 +37,7 @@
 
 - [1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
 
-# ✏ Design
+# Design
 
   - Diagramas e Prototipação: 
     [Excalidraw](https://excalidraw.com),
@@ -51,18 +51,18 @@
 
   - Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
 
-# 🖼 Imagens
+# Imagens
 
 - [Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
 
-# 👥 Open Source
+# Open Source
 
 - [Libreflix](https://libreflix.org) - Plataforma de streaming livre e independente
 - [Opensource builders](https://opensource.builders) - Alternativas open source a softwares
 - [Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 
-# 📹 Videos
+# Videos
 
 - [Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
