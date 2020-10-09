@@ -8,7 +8,7 @@
   - [🌀 Deep Learning](http://www.deeplearningbook.com.br)
   - [♟️ Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa)
   - [🔐 Fundamentos em Segurança Cibernética](./pdfs/Fundamentos%20de%20seguranca%20cibernetica.pdf)
-  - [🔐 Segurança de infraestrutura de TI](./pdfs/Segurança%20de%20infraestrutura de ti.pdf)
+  - [🔐 Segurança de infraestrutura de TI](./pdfs/Segurança%20de%20infraestrutura%20de%20ti.pdf)
 
 - Inglês
 
