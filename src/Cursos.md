@@ -78,13 +78,12 @@
 
 - 🔐 Segurança da informação ofensiva
 
-  - Cursos
-    - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
-    
-  - Bug bounty
-    - [Hacker One](https://www.hackerone.com)
-    - [Hacker101 CTF](https://www.hacker101.com)
-    - [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
+  - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
+  - [Hack the box](https://www.hackthebox.eu)  
+  - [Hacker101](https://www.hacker101.com)
+  - [Hacker Security](capturetheflag.com.br)
+  - [Hacker One](https://www.hackerone.com)
+  - [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
 
 # Youtube
 
