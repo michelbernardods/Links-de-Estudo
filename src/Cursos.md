@@ -8,8 +8,7 @@
     [4Linux](https://4linux.com.br/cursos-gratis),
     - [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos),
     [Tec Forest](https://www.tecforest.com.br/category/cursos),
-    [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php),
-    [Solyd](https://solyd.com.br/treinamentos)
+    [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php)
 
   - Inglês: 
     [Free Code Camp](https://www.freecodecamp.org/learn),
@@ -77,7 +76,8 @@
   - [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
 
 - 🔐 Segurança da informação ofensiva
-
+  
+  - [Solyd](https://solyd.com.br/treinamentos)
   - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
   - [Hack the box](https://www.hackthebox.eu)  
   - [Hacker101](https://www.hacker101.com)
