@@ -26,7 +26,11 @@
 
 <h2> <a href="./src/Cursos.md">Cursos</a> </h2>
 
-<h2> <a href="./src/Ferramentas.md">Ferramentas</a> </h2>
+## Ferramentas
+
+- [⚙ Tecnologia](./src/Ferramentas/Tecnologia.md)
+
+- [🎨 Design](./src/Ferramentas/Design.md)
 
 ## Materiais
 
