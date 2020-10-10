@@ -30,7 +30,7 @@
 
 - [🌐 Sites](./src/Cursos/Sites.md)
 
-- [🎥 YouTube](./src/Cursos/YouTube.md)
+- [🎥 YouTube](./src/Cursos/Youtube.md)
 
 ## Ferramentas
 
