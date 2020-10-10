@@ -1,12 +1,12 @@
 # Tecnologia
 
-- Estatísticas
+- 🔎 Estatísticas
 
   - [Google trends](https://trends.google.com.br/trends/?geo=BR),
   [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020),
   [GitHut](https://madnight.github.io/githut)
 
-- Nuvem
+- ☁ Nuvem
 
   - Anotações: 
     [Notion](https://www.notion.so),
@@ -21,17 +21,23 @@
     [Codepen](https://codepen.io),
     [Glitch](https://glitch.com)
 
-    - [Ideone](https://ideone.com),
+    - [IDE One](https://ideone.com),
     [Code Sandbox](https://codesandbox.io),
     [Slingcode](https://slingcode.net),
     [Stackblitz](https://stackblitz.com)
+    
+    - [CodeAnywhere](https://codeanywhere.com),
+    [CodeChef](https://www.codechef.com/ide),
+    [Devmind.io](https://devmind.io),
+    [My Compiler](https://www.mycompiler.io),
+    [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
 
-- InfoSec
+- 🔐 InfoSec
 
   - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
   - [Criptografia](https://www.dcode.fr/en)
 
-- Outros
+- 🗺 Outros
 
     - [TinyURL](https://tinyurl.com) - Encurtador de urls
     - [Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
