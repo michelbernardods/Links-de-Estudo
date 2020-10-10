@@ -24,7 +24,13 @@
 
 <!-- Categorias -->
 
-<h2> <a href="./src/Cursos.md">Cursos</a> </h2>
+## Cursos
+
+- [📃 Com certificado](./src/Cursos/Certificado.md)
+
+- [🌐 Sites](./src/Cursos/Sites.md)
+
+- [🎥 YouTube](./src/Cursos/YouTube.md)
 
 ## Ferramentas
 
