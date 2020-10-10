@@ -11,8 +11,9 @@
 - 💻 Programação em geral
   - [📔 Links uteis](https://github.com/OfficialMarinho/Links-uteis)
   - [📔 4noobs](https://github.com/he4rt/4noobs)
+  - [📔 Free courses](https://github.com/alinebastos/free-courses)
   - [📔 Resumos](https://github.com/levxyca/studynotes)
-  
+
 - [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
 
 - [🐍 Raspagem de dados para iniciantes com Python](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
