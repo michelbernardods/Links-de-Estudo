@@ -8,7 +8,9 @@
 - Ilustrações:
   [Undraw](https://undraw.co/illustrations),
   [Manypixels](https://www.manypixels.co/gallery),
-  [Ira Design](https://iradesign.io/gallery/illustrations)
+  [Ira Design](https://iradesign.io/gallery/illustrations),
+  [Glaze](https://www.glazestock.com),
+  [Lukas Zadam](https://lukaszadam.com/illustrations)
 
 - Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
 
