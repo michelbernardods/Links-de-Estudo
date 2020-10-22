@@ -2,6 +2,7 @@
 
   - [💻 Estágio Online](https://estagioonline.com/blog)
   - [💻 Imasters](https://imasters.com.br)
+  - [💻 CBSI](https://www.cbsi.net.br)
 
 - Inglês
 
