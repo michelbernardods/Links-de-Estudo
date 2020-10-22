@@ -1,7 +1,8 @@
 - Português
-
+  - [Le Livros](https://lelivros.love)
+  - [Wiki Livros](https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal)
   - [Caelum Tecnologia](https://www.caelum.com.br/apostilas)
-  
+
 - Vários idiomas
 
   - [Z-Library](https://b-ok.lat)
