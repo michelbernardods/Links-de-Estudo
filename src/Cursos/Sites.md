@@ -52,8 +52,9 @@
   - [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
 
 - 🔐 Segurança da informação ofensiva
-  
+
   - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
+  - [Over The Wire](https://overthewire.org/wargames)
   - [Hack the box](https://www.hackthebox.eu)  
   - [Hacker101](https://www.hacker101.com)
   - [Hacker Security](capturetheflag.com.br)
