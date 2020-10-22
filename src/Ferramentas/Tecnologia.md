@@ -45,3 +45,4 @@
     - [Libreflix](https://libreflix.org) - Plataforma de streaming livre e independente
     - [Opensource builders](https://opensource.builders) - Alternativas open source a softwares
     - [Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
+    - [Wikimedia Foundation](https://wikimediafoundation.org) - Help us unlock the world’s knowledge.
