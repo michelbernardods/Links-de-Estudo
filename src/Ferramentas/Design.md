@@ -12,7 +12,13 @@
   [Glaze](https://www.glazestock.com),
   [Lukas Zadam](https://lukaszadam.com/illustrations)
 
-- Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
+- Ícones: 
+   - [Material Design](https://material.io/resources/icons/?style=baseline)
+   - [FontAwesome](https://fontawesome.com/6?next=%2F)
+   - [FeatherIcons](https://feathericons.com)
+   - [FlatIcons](https://flaticons.com)
+   - [FreeIcons](https://freeicons.io)
+   - [IconFinder](https://www.iconfinder.com)
 
 - [Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 
