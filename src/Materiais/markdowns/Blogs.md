@@ -6,7 +6,7 @@
   - [💻 CBSI](https://www.cbsi.net.br)
   
   - React, Node, React-Native
-    - [:rocket Rocketseat](https://blog.rocketseat.com.br)
+    - [:rocket: Rocketseat](https://blog.rocketseat.com.br)
 
 - Inglês
 
