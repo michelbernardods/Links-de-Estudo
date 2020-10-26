@@ -14,9 +14,9 @@
   - [📔 Free courses](https://github.com/alinebastos/free-courses)
   - [📔 Resumos](https://github.com/levxyca/studynotes)
 
-- [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
-
-- [🐍 Raspagem de dados para iniciantes com Python](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
+- 🐍 Python
+  - [🐍 Geral](https://github.com/pug-ma/materiais_estudo)
+  - [🐍 Raspagem de dados](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
 
 - [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
 
