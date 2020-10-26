@@ -13,12 +13,12 @@ Ilustrações:
   [Lukas Zadam](https://lukaszadam.com/illustrations)
 
 Ícones: 
-   - [Material Design](https://material.io/resources/icons/?style=baseline)
-   - [FontAwesome](https://fontawesome.com/6?next=%2F)
-   - [FeatherIcons](https://feathericons.com)
-   - [FlatIcons](https://flaticons.com)
-   - [FreeIcons](https://freeicons.io)
-   - [IconFinder](https://www.iconfinder.com)
+  - [Material Design](https://material.io/resources/icons/?style=baseline),
+  [Font Awesome](https://fontawesome.com/6?next=%2F),
+  [Feather Icons](https://feathericons.com),
+  [Flat Icons](https://flaticons.com),
+  [Free Icons](https://freeicons.io),
+  [Icon Finder](https://www.iconfinder.com)
 
 Vídeos:
 
