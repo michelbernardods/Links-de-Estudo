@@ -39,12 +39,12 @@ Inglês:
 
 ## 🐍 Python
 
-- [Geral](https://github.com/pug-ma/materiais_estudo)
+[Geral](https://github.com/pug-ma/materiais_estudo)
 
-- [Raspagem de dados](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
+[Raspagem de dados](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
 
 ## 🎣 Outros
 
-- [Android](https://github.com/androiddevbr/materiais-de-estudo)
+[Android](https://github.com/androiddevbr/materiais-de-estudo)
 
-- [Laravel](https://github.com/lemesdaniel/laravel-links)
+[Laravel](https://github.com/lemesdaniel/laravel-links)
