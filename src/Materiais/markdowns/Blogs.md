@@ -1,8 +1,12 @@
 - Português
 
+  - [💻 Estágio em programacao](https://infosimples.github.io/estagio-em-programacao/)
   - [💻 Estágio Online](https://estagioonline.com/blog)
   - [💻 Imasters](https://imasters.com.br)
   - [💻 CBSI](https://www.cbsi.net.br)
+  
+  - React, Node, React-Native
+    - [:rocket: Rocketseat](https://blog.rocketseat.com.br)
 
 - Inglês
 
