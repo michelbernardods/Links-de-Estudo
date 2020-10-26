@@ -1,22 +1,27 @@
 # Design
 
 Diagramas e Prototipação: 
+
   - [Excalidraw](https://excalidraw.com),
   [Whinsical](https://whimsical.com),
   [Figma](https://www.figma.com)
 
 Ilustrações:
+
   - [Undraw](https://undraw.co/illustrations),
   [Manypixels](https://www.manypixels.co/gallery),
-  [Ira Design](https://iradesign.io/gallery/illustrations),
-  [Glaze](https://www.glazestock.com),
+  [Ira Design](https://iradesign.io/gallery/illustrations)
+  
+  - [Glaze](https://www.glazestock.com),
   [Lukas Zadam](https://lukaszadam.com/illustrations)
 
 Ícones: 
+
   - [Material Design](https://material.io/resources/icons/?style=baseline),
   [Font Awesome](https://fontawesome.com/6?next=%2F),
-  [Feather Icons](https://feathericons.com),
-  [Flat Icons](https://flaticons.com),
+  [Feather Icons](https://feathericons.com)
+  
+  - [Flat Icons](https://flaticons.com),
   [Free Icons](https://freeicons.io),
   [Icon Finder](https://www.iconfinder.com)
 
