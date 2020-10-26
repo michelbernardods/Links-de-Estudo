@@ -1,18 +1,19 @@
 # Design
 
 Diagramas e Prototipação: 
-  [Excalidraw](https://excalidraw.com),
+  - [Excalidraw](https://excalidraw.com),
   [Whinsical](https://whimsical.com),
   [Figma](https://www.figma.com)
 
 Ilustrações:
-  [Undraw](https://undraw.co/illustrations),
+  - [Undraw](https://undraw.co/illustrations),
   [Manypixels](https://www.manypixels.co/gallery),
   [Ira Design](https://iradesign.io/gallery/illustrations),
   [Glaze](https://www.glazestock.com),
   [Lukas Zadam](https://lukaszadam.com/illustrations)
 
-Ícones: [Material Design](https://material.io/resources/icons/?style=baseline)
+Ícones: 
+  - [Material Design](https://material.io/resources/icons/?style=baseline)
 
 Vídeos:
 
