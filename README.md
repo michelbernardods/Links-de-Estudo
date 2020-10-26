@@ -34,6 +34,8 @@
 
 ## 🛠 Ferramentas
 
+[Desafios](./src/Ferramentas/Desafios.md)
+
 [Tecnologia](./src/Ferramentas/Tecnologia.md)
 
 [Design](./src/Ferramentas/Design.md)
