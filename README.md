@@ -24,30 +24,30 @@
 
 <!-- Categorias -->
 
-## Cursos
+## 🏫 Cursos
 
-- [📃 Com certificado](./src/Cursos/Certificado.md)
+- [Certificados](./src/Cursos/Certificado.md)
 
-- [🌐 Sites](./src/Cursos/Sites.md)
+- [Sites](./src/Cursos/Sites.md)
 
-- [🎥 YouTube](./src/Cursos/Youtube.md)
+- [YouTube](./src/Cursos/Youtube.md)
 
-## Ferramentas
+## 🛠 Ferramentas
 
-- [⚙ Tecnologia](./src/Ferramentas/Tecnologia.md)
+- [Tecnologia](./src/Ferramentas/Tecnologia.md)
 
-- [🎨 Design](./src/Ferramentas/Design.md)
+- [Design](./src/Ferramentas/Design.md)
 
-## Materiais
+## 📚 Materiais
 
-- [🐙 Github](./src/Materiais/markdowns/Github.md)
+- [Github](./src/Materiais/markdowns/Github.md)
 
-- [📚 Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
+- [Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
 
-- [📘 Livros](./src/Materiais/markdowns/Livros.md)
+- [Blogs](./src/Materiais/markdowns/Blogs.md)
 
-- [🎬 Videos](./src/Materiais/markdowns/Videos.md)  
+- [Artigos](./src/Materiais/markdowns/Artigos.md)
 
-- [🖊 Blogs](./src/Materiais/markdowns/Blogs.md)
+- [Livros](./src/Materiais/markdowns/Livros.md)
 
-- [📑 Artigos](./src/Materiais/markdowns/Artigos.md)
+- [Videos](./src/Materiais/markdowns/Videos.md)  
