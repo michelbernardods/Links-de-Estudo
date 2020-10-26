@@ -26,11 +26,11 @@
 
 ## 🏫 Cursos
 
-- [Certificados](./src/Cursos/Certificado.md)
+[📃 Certificados](./src/Cursos/Certificado.md)
 
-- [Sites](./src/Cursos/Sites.md)
+[🌐 Sites](./src/Cursos/Sites.md)
 
-- [YouTube](./src/Cursos/Youtube.md)
+[🎥 YouTube](./src/Cursos/Youtube.md)
 
 ## 🛠 Ferramentas
 
