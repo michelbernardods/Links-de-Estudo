@@ -30,6 +30,6 @@ Inglês
 
 ## 🎣 Outros
 
-- [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
+- [Android](https://github.com/androiddevbr/materiais-de-estudo)
 
-- [🐘 Laravel](https://github.com/lemesdaniel/laravel-links)
+- [Laravel](https://github.com/lemesdaniel/laravel-links)
