@@ -34,20 +34,20 @@
 
 ## 🛠 Ferramentas
 
-- [Tecnologia](./src/Ferramentas/Tecnologia.md)
+[Tecnologia](./src/Ferramentas/Tecnologia.md)
 
-- [Design](./src/Ferramentas/Design.md)
+[Design](./src/Ferramentas/Design.md)
 
 ## 📚 Materiais
 
-- [Github](./src/Materiais/markdowns/Github.md)
+[Github](./src/Materiais/markdowns/Github.md)
 
-- [Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
+[Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
 
-- [Blogs](./src/Materiais/markdowns/Blogs.md)
+[Blogs](./src/Materiais/markdowns/Blogs.md)
 
-- [Artigos](./src/Materiais/markdowns/Artigos.md)
+[Artigos](./src/Materiais/markdowns/Artigos.md)
 
-- [Livros](./src/Materiais/markdowns/Livros.md)
+[Livros](./src/Materiais/markdowns/Livros.md)
 
-- [Videos](./src/Materiais/markdowns/Videos.md)  
+[Videos](./src/Materiais/markdowns/Videos.md)  
