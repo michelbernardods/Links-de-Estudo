@@ -1,3 +1,12 @@
+## 🔡 Digitação
+
+  - [Agile Fingers](https://agilefingers.com/pt)
+  - [Typing](https://www.typing.com/br)
+  - [ZType](https://zty.pe)
+  - [Type racer](https://play.typeracer.com)
+  - [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese)
+  - [Typing Works](https://typing.works)
+
 ## 👨‍💻 Programação
   
   - [Daily Code](https://github.com/luanribeiros/daily-code)
