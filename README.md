@@ -45,9 +45,3 @@
 [Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
 
 [Blogs](./src/Materiais/markdowns/Blogs.md)
-
-[Artigos](./src/Materiais/markdowns/Artigos.md)
-
-[Livros](./src/Materiais/markdowns/Livros.md)
-
-[Videos](./src/Materiais/markdowns/Videos.md)  
