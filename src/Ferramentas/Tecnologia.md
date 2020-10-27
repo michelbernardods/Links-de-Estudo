@@ -1,6 +1,4 @@
-# Tecnologia
-
-- 🔎 Estatísticas
+🔎 Estatísticas
 
   - [Google trends](https://trends.google.com.br/trends/?geo=BR),
   [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020),
