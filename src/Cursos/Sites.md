@@ -47,12 +47,11 @@
 🚀 Rocketseat
   
   [Site](https://rocketseat.com.br),
-  
-  [Blog](https://blog.rocketseat.com.br),
+  [Blog](https://blog.rocketseat.com.br)
   
   [Next Level Week](https://nextlevelweek.com)
 
-💎 Ruby, Vue...
+💎 Ruby, Vue:
 
   [Onebitcode](https://onebitcode.com/cursos),
   
@@ -60,10 +59,18 @@
   
 🐍 Python
 
-  [Python para análise de dados](https://geracaoanalitica.com.br)
+  [Introdução - 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
   
-  [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
+  [Introdução - 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+
+  [Análise de dados](https://geracaoanalitica.com.br)
+  
+  [Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
+
 
 🔐 Segurança da informação ofensiva
 
   - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
+
+[☕ Java](https://loiane.training)
+
