@@ -8,11 +8,24 @@
 
 [🎨 Crehana](https://www.crehana.com/br/cursos-gratis) - Design
 
-💻 Programação
+💻 Programação:
   
-  - [Jornada do dev](https://jornadadodev.com.br/cursos),
+  [Innovation One](https://digitalinnovation.one),
+  [School of net](https://www.schoolofnet.com/cursos/gratuitos),
+  [4Linux](https://4linux.com.br/cursos-gratis)
+    
+  [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos),
+  [Tec Forest](https://www.tecforest.com.br/category/cursos),
+  [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php),
+  
+  [Solyd](https://solyd.com.br/treinamentos),
+  [Free Code Camp](https://www.freecodecamp.org/learn),
+  [Sololearn](https://www.sololearn.com)
+  
+  [Jornada do dev](https://jornadadodev.com.br/cursos),
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
-  [Codando.org](https://codando.org/material-gratuito),
+  [Codando.org](https://codando.org/material-gratuito)
+  
   [Fabio Vedovelli](https://classes.vedovelli.com.br/courses)
 
 🌐 Web
