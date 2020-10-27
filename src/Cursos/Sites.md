@@ -1,12 +1,14 @@
 # Sites
 
-[🌎 Aprimoramente](https://aprimoramente.com/areas/gratuitos/online) - Geral
+[🌎 Aprimoramente](https://aprimoramente.com/areas/gratuitos/online)
 
-[🎓 Novi](www.novienem.com.br) - Pré Enem
+[🎓 Pré Enem](www.novienem.com.br)
 
-[💬 Duolingo](https://pt.duolingo.com) - Idiomas
+[💬 Idiomas](https://pt.duolingo.com)
 
-[🎨 Crehana](https://www.crehana.com/br/cursos-gratis) - Design
+[🎨 Design](https://www.crehana.com/br/cursos-gratis)
+
+[🏢 Office](https://www.hashtagtreinamentos.com)
 
 💻 Programação:
   
@@ -30,30 +32,37 @@
 
 🌐 Web
 
-  - [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s)
-  - [Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-)
-  - [Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI)
+  [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s)
+  
+  [Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-)
+  
+  [Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI)
 
 💡 Javascript
 
-  - [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/)
-  - [Node.js para Iniciantes](https://treinamento.nodebr.org)
+  [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/)
+  
+  [Node.js para Iniciantes](https://treinamento.nodebr.org)
 
 🚀 Rocketseat
   
-  - [Site](https://rocketseat.com.br),
+  [Site](https://rocketseat.com.br),
+  
   [Blog](https://blog.rocketseat.com.br),
+  
   [Next Level Week](https://nextlevelweek.com)
 
 💎 Ruby, Vue...
 
-  - [Onebitcode](https://onebitcode.com/cursos),
+  [Onebitcode](https://onebitcode.com/cursos),
+  
   [Vuejs Brasil](http://www.vuejs-brasil.com.br)
   
 🐍 Python
 
-  - [Python para análise de dados](https://geracaoanalitica.com.br)
-  - [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
+  [Python para análise de dados](https://geracaoanalitica.com.br)
+  
+  [Mini Curso Django](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber)
 
 🔐 Segurança da informação ofensiva
 
