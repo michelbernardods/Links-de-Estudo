@@ -14,15 +14,6 @@
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
   [Codando.org](https://codando.org/material-gratuito),
   [Fabio Vedovelli](https://classes.vedovelli.com.br/courses)
-  
-- ⌨️ Digitação
-
-  - [Agile Fingers](https://agilefingers.com/pt),
-    [Typing](https://www.typing.com/br),
-    [ZType](https://zty.pe),
-    [Type racer](https://play.typeracer.com),
-    [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese),
-    [Typing Works](https://typing.works)
 
 - 🌐 Web
 
@@ -54,9 +45,3 @@
 - 🔐 Segurança da informação ofensiva
 
   - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
-  - [Over The Wire](https://overthewire.org/wargames)
-  - [Hack the box](https://www.hackthebox.eu)  
-  - [Hacker101](https://www.hacker101.com)
-  - [Hacker Security](capturetheflag.com.br)
-  - [Hacker One](https://www.hackerone.com)
-  - [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
