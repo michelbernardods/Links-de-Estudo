@@ -18,7 +18,7 @@
     
   - [Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos),
   [Tec Forest](https://www.tecforest.com.br/category/cursos),
-  [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php),
+  [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php)
   
   - [Solyd](https://solyd.com.br/treinamentos),
   [Free Code Camp](https://www.freecodecamp.org/learn),
@@ -49,7 +49,7 @@
 
 💎 Ruby, Vue:
 
-  - [Onebitcode](https://onebitcode.com/cursos),
+  - [Onebitcode](https://onebitcode.com/cursos)
   - [Vuejs Brasil](http://www.vuejs-brasil.com.br)
   
 🐍 Python
