@@ -20,7 +20,7 @@
   [Tec Forest](https://www.tecforest.com.br/category/cursos),
   [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php)
   
-  - [Solyd](https://solyd.com.br/treinamentos),
+  - [Fabio Vedovelli](https://classes.vedovelli.com.br/courses),
   [Free Code Camp](https://www.freecodecamp.org/learn),
   [Sololearn](https://www.sololearn.com)
   
@@ -28,8 +28,6 @@
   [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity),
   [Codando.org](https://codando.org/material-gratuito)
   
-  - [Fabio Vedovelli](https://classes.vedovelli.com.br/courses)
-
 🌐 Web
 
   - [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s)
@@ -62,5 +60,6 @@
 🔐 Segurança da informação ofensiva
 
   - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
-
+  - [Solyd](https://solyd.com.br/treinamentos)
+  
 [☕ Java](https://loiane.training)
