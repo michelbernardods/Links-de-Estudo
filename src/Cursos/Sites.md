@@ -38,7 +38,7 @@
 
 💡 Javascript
 
-  - [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/
+  - [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript)
   - [Node.js para Iniciantes](https://treinamento.nodebr.org)
 
 🚀 Rocketseat
