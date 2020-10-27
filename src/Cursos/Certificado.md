@@ -1,7 +1,4 @@
-
-### 💻 Informática
-
-Português: 
+💻 Informática
 
   - [Digital Innovation One](https://digitalinnovation.one),
     [School of net](https://www.schoolofnet.com/cursos/gratuitos),
@@ -12,15 +9,13 @@ Português:
     [Mackenzie](https://eadcursoslivres.mackenzie.br/index.php),
     [Solyd](https://solyd.com.br/treinamentos)
 
-Inglês: 
+  - [Free Code Camp](https://www.freecodecamp.org/learn),
+    [Sololearn](https://www.sololearn.com)
 
- - [Free Code Camp](https://www.freecodecamp.org/learn),
-   [Sololearn](https://www.sololearn.com)
+[🏢 Office](https://www.hashtagtreinamentos.com)
 
-### [🏢 Office](https://www.hashtagtreinamentos.com)
-
-### 🐍 Python 
+🐍 Python 
    - [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), 
    [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
 
-### [☕ Java](https://loiane.training)
+[☕ Java](https://loiane.training)
