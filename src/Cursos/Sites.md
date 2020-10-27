@@ -36,14 +36,9 @@
 
 💡 Javascript
 
+  - [Rocketseat](https://nextlevelweek.com)
   - [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript)
   - [Node.js para Iniciantes](https://treinamento.nodebr.org)
-
-🚀 Rocketseat
-  
-  - [Site](https://rocketseat.com.br),
-  [Blog](https://blog.rocketseat.com.br)
-  - [Next Level Week](https://nextlevelweek.com)
 
 💎 Ruby, Vue:
 
