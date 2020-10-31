@@ -2,7 +2,7 @@
 
 <h1 align="center">
     < 📜 > <br>
-    Estudos de tecnologia
+    Links de tecnologia
 </h1>
 
 <!-- Subtitulo -->
