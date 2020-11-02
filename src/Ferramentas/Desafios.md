@@ -15,7 +15,7 @@
   - [JavaScript 30](https://javascript30.com)
   - [HackerRank](https://www.hackerrank.com/dashboard)
   - [CodeWars](https://www.codewars.com/dashboard)
-  - [Uri](https://www.urionlinejudge.com.br/judge/en/login)
+  - [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
   - [Exercims](https://exercism.io/my/tracks)
   - [JsChallenger](https://www.jschallenger.com/start)
 
