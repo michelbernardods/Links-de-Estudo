@@ -10,3 +10,4 @@ Vários idiomas
   - [Library Genesis](https://libgen.is)
   - [Free Computer Books](https://freecomputerbooks.com)
   - [PDF Drive](https://www.pdfdrive.com)
+  - [Goalkicker](https://books.goalkicker.com/)
