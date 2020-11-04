@@ -10,7 +10,7 @@
 
 [🏢 Office](https://www.hashtagtreinamentos.com)
 
-💻 Programação:
+💻 Programação
   
   - [Innovation One](https://digitalinnovation.one),
   [School of net](https://www.schoolofnet.com/cursos/gratuitos),
@@ -40,7 +40,7 @@
   - [Minicurso TypeScript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript)
   - [Node.js para Iniciantes](https://treinamento.nodebr.org)
 
-💎 Ruby, Vue:
+💎 Ruby, Vue
 
   - [Onebitcode](https://onebitcode.com/cursos)
   - [Vuejs Brasil](http://www.vuejs-brasil.com.br)
