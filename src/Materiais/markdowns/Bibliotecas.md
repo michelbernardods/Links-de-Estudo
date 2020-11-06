@@ -1,6 +1,8 @@
 ## Português
 - [Le Livros](https://lelivros.love)
 - [Wiki Livros](https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal)
+- [Free Livros](https://github.com/free-educa/free-livros)
+- [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
 - [Caelum Tecnologia](https://www.caelum.com.br/apostilas)
 
 ## Vários idiomas
