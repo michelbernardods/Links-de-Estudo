@@ -8,9 +8,10 @@
 
 [🎨 Design](https://www.crehana.com/br/cursos-gratis)
 
-[🏢 Office](https://www.hashtagtreinamentos.com)
-
-💻 Programação
+💻 Tecnologia
+  
+  - [Cursos em geral](https://eucapacito.com.br),
+  [Excel](https://www.hashtagtreinamentos.com)
   
   - [Innovation One](https://digitalinnovation.one),
   [School of net](https://www.schoolofnet.com/cursos/gratuitos),
