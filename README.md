@@ -24,9 +24,9 @@
 
 <!-- Categorias -->
 
-## 📚 Cursos
+## 📚 Materiais
 
-- [Sites diversos](./src/Cursos/Sites.md)
+- [Cursos](./src/Cursos/Sites.md)
 - [YouTube](./src/Cursos/Youtube.md)
 - [Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
 - [Blogs](./src/Materiais/markdowns/Blogs.md)
