@@ -26,18 +26,13 @@
 
 ## 📚 Cursos
 
-[Sites diversos](./src/Cursos/Sites.md)
-
-[YouTube](./src/Cursos/Youtube.md)
-
-[Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
-
-[Blogs](./src/Materiais/markdowns/Blogs.md)
+- [Sites diversos](./src/Cursos/Sites.md)
+- [YouTube](./src/Cursos/Youtube.md)
+- [Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
+- [Blogs](./src/Materiais/markdowns/Blogs.md)
 
 ## 🛠 Ferramentas
 
-[Desafios](./src/Ferramentas/Desafios.md)
-
-[Tecnologia](./src/Ferramentas/Tecnologia.md)
-
-[Design](./src/Ferramentas/Design.md)
+- [Desafios](./src/Ferramentas/Desafios.md)
+- [Tecnologia](./src/Ferramentas/Tecnologia.md)
+- [Design](./src/Ferramentas/Design.md)
