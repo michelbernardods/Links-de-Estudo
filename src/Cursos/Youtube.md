@@ -28,30 +28,20 @@
   [Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9),
   [Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
   
-<hr>
-  
+🧐 Outros  
 - [🎓 Futura](https://www.youtube.com/c/CanalfuturaOrgBr)
-
 - [🎨 Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw), 
   [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
-
 - [🎵 Tab Sheet Music](https://www.youtube.com/c/TabSheetMusic), 
   [Bruno Henriques Hasper](https://www.youtube.com/playlist?list=PLg4tPBTePKk2VtqY7_fBoHEHpizYKxb1K)
-  
 - [⛏️ Uberhub](https://www.youtube.com/channel/UCwiPDmAwR6tQancfkGVSt1Q), 
   [Linguagem C - Programação Descomplicada](https://www.youtube.com/channel/UCUc6UwvpQfOLDE7e52-OCMw)
-  
 - [🛡️ Tudo sobre Angular.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb), 
   [Bemean - Angular.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df)
-  
 - [🐙 Git](https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1), 
   [Git e Github](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
-  
 - [🔮 C#, .Net, Flutter..](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
-  
 - [📱 Swift e Swift Ui - Stanford](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
-  
 - [🐫 Clojure](https://www.youtube.com/watch?v=SBtEou4qBzw)
-  
 - [🗄 Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY),
   [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
