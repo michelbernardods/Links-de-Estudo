@@ -24,11 +24,15 @@
 
 <!-- Categorias -->
 
-## 🏫 Cursos
+## 📚 Cursos
 
 [Sites diversos](./src/Cursos/Sites.md)
 
 [YouTube](./src/Cursos/Youtube.md)
+
+[Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
+
+[Blogs](./src/Materiais/markdowns/Blogs.md)
 
 ## 🛠 Ferramentas
 
@@ -37,11 +41,3 @@
 [Tecnologia](./src/Ferramentas/Tecnologia.md)
 
 [Design](./src/Ferramentas/Design.md)
-
-## 📚 Materiais
-
-[Github](./src/Materiais/markdowns/Github.md)
-
-[Bibliotecas](./src/Materiais/markdowns/Bibliotecas.md)
-
-[Blogs](./src/Materiais/markdowns/Blogs.md)
