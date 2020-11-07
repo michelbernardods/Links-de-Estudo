@@ -1,5 +1,3 @@
-# Sites
-
 [🌎 Aprimoramente](https://aprimoramente.com/areas/gratuitos/online)
 
 [🎓 Pré Enem](www.novienem.com.br)
@@ -56,6 +54,7 @@
 🔐 Segurança da informação ofensiva
 
   - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
-  - [Solyd](https://solyd.com.br/treinamentos)
+  - [Solyd Treinamentos](https://solyd.com.br/treinamentos)
+  - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
   
 [☕ Java](https://loiane.training)
