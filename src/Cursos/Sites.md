@@ -1,4 +1,11 @@
 ## 💻 Tecnologia
+- [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
+- [4noobs](https://github.com/he4rt/4noobs)
+- [Dctb Links](https://github.com/diogocezar/dctb-links)
+- [Perifa Code](https://github.com/perifacode/conteudo-gratuito)
+- [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
+- [Free courses](https://github.com/alinebastos/free-courses)
+- [Resumos](https://github.com/levxyca/studynotes)
 - [Eu Capacito](https://eucapacito.com.br)
 - [Excel Avançado](https://www.hashtagtreinamentos.com) 
 - [Innovation One](https://digitalinnovation.one)
