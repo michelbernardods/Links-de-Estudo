@@ -8,6 +8,7 @@
 
 ## 👨‍💻 Programação
 - [Daily Code](https://github.com/luanribeiros/daily-code)
+- [App ideas](https://github.com/florinpop17/app-ideas)
 - [JavaScript 30](https://javascript30.com)
 - [HackerRank](https://www.hackerrank.com/dashboard)
 - [CodeWars](https://www.codewars.com/dashboard)
