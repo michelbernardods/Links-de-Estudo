@@ -5,6 +5,8 @@
 
 ## 🎭 Ilustrações
 - [Undraw](https://undraw.co/illustrations)
+- [Unsplash](https://unsplash.com)
+- [Pixabay](https://pixabay.com/pt)
 - [Manypixels](https://www.manypixels.co/gallery)
 - [Ira Design](https://iradesign.io/gallery/illustrations)
 - [Glaze](https://www.glazestock.com)
