@@ -1,11 +1,11 @@
-💻 Informática
+## 💻 Informática
 - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo),
   [Canal T.I.](https://www.youtube.com/c/CanalTIoficial)
 - [RBtech](https://www.youtube.com/c/RBTechinfo),
   [Origamid](https://www.youtube.com/c/Origamid), 
   [Hcode](https://www.youtube.com/c/HcodeBrasil)
   
-💡 Javascript
+## 💡 Javascript
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg),
   [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA), 
   [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
@@ -16,19 +16,19 @@
   [Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq),
   [Grunt vs Gulp](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTkUx1tVVPumohXVMDwfQcV)
   
-🐍 Python
+## 🐍 Python
 - [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo),
   [Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos),
   [Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-),
   [CodeShow](https://www.youtube.com/user/brunovegan)
     
-⚙ Hardware
+## ⚙ Hardware
 - [Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv),
   [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw),
   [Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9),
   [Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
   
-🧐 Outros  
+## 🧐 Outros  
 - [🎓 Futura](https://www.youtube.com/c/CanalfuturaOrgBr)
 - [🎨 Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw), 
   [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
