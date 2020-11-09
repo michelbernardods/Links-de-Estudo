@@ -9,6 +9,7 @@
 - [Ira Design](https://iradesign.io/gallery/illustrations)
 - [Glaze](https://www.glazestock.com)
 - [Lukas Zadam](https://lukaszadam.com/illustrations)
+- [Imagens com diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade)
 
 ## 🧮 Ícones
 - [Material Design](https://material.io/resources/icons/?style=baseline)
