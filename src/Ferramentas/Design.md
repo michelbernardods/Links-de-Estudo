@@ -1,22 +1,22 @@
 ## 🧨 Diagramas e Prototipação
-- [Excalidraw](https://excalidraw.com),
-  [Whinsical](https://whimsical.com),
-  [Figma](https://www.figma.com)
+- [Excalidraw](https://excalidraw.com)
+- [Whinsical](https://whimsical.com)
+- [Figma](https://www.figma.com)
 
 ## 🎭 Ilustrações
-- [Undraw](https://undraw.co/illustrations),
-  [Manypixels](https://www.manypixels.co/gallery),
-  [Ira Design](https://iradesign.io/gallery/illustrations)
-- [Glaze](https://www.glazestock.com),
-  [Lukas Zadam](https://lukaszadam.com/illustrations)
+- [Undraw](https://undraw.co/illustrations)
+- [Manypixels](https://www.manypixels.co/gallery)
+- [Ira Design](https://iradesign.io/gallery/illustrations)
+- [Glaze](https://www.glazestock.com)
+- [Lukas Zadam](https://lukaszadam.com/illustrations)
 
 ## 🧮 Ícones
-- [Material Design](https://material.io/resources/icons/?style=baseline),
-  [Font Awesome](https://fontawesome.com/6?next=%2F),
-  [Feather Icons](https://feathericons.com)
-- [Flat Icons](https://flaticons.com),
-  [Free Icons](https://freeicons.io),
-  [Icon Finder](https://www.iconfinder.com)
+- [Material Design](https://material.io/resources/icons/?style=baseline)
+- [Font Awesome](https://fontawesome.com/6?next=%2F)
+- [Feather Icons](https://feathericons.com)
+- [Flat Icons](https://flaticons.com)
+- [Free Icons](https://freeicons.io)
+- [Icon Finder](https://www.iconfinder.com)
 
 ## 🎞️ Vídeos
 - [Remove.bg](https://www.remove.bg) - Remover fundo de imagens
