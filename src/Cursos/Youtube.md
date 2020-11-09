@@ -30,6 +30,7 @@
   
 ## 🧐 Outros  
 - [🎓 Futura](https://www.youtube.com/c/CanalfuturaOrgBr)
+- [🐫 Clojure](https://www.youtube.com/watch?v=SBtEou4qBzw)
 - [🎨 Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw), 
   [Clube do Design](https://www.youtube.com/c/ClubedoDesign)
 - [🎵 Tab Sheet Music](https://www.youtube.com/c/TabSheetMusic), 
@@ -42,6 +43,5 @@
   [Git e Github](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
 - [🔮 C#, .Net, Flutter..](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 - [📱 Swift e Swift Ui - Stanford](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
-- [🐫 Clojure](https://www.youtube.com/watch?v=SBtEou4qBzw)
 - [🗄 Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY),
   [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
