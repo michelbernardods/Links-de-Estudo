@@ -20,6 +20,7 @@
 - [Jornada do dev](https://jornadadodev.com.br/cursos)
 - [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)
 - [Codando.org](https://codando.org/material-gratuito)
+- [CS50 - Ciência da Computação](https://cc50.estudarfora.org.br/)
   
 ## 🌐 Web
 - [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s)
