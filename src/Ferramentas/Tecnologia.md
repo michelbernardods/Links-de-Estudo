@@ -41,6 +41,7 @@
 ## 🕵️‍♂️ Outros
 - [Notion](https://www.notion.so), [Keep](https://keep.google.com) - Anotações em nuvem
 - [OnWorks](https://www.onworks.net) - Sistema Operacional em nuvem
+- [Wetransfer](https://wetransfer.com) - Transferencia de arquivos online
 - [TinyURL](https://tinyurl.com) - Encurtador de urls
 - [Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
