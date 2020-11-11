@@ -1,3 +1,12 @@
+## 🐙 Github repos
+- [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
+- [4noobs](https://github.com/he4rt/4noobs)
+- [Dctb Links](https://github.com/diogocezar/dctb-links)
+- [Perifa Code](https://github.com/perifacode/conteudo-gratuito)
+- [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
+- [Free courses](https://github.com/alinebastos/free-courses)
+- [Resumos](https://github.com/levxyca/studynotes)
+
 ## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
@@ -14,7 +23,7 @@
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 
-## ☁ IDE Cloud
+## ☁ IDEs em nuvem
 - [CodeAnywhere](https://codeanywhere.com) - Plataforma de codificação na nuvem
 - [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 - [Codepen](https://codepen.io) - Plataforma de codificação na nuvem
