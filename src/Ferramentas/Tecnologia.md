@@ -1,6 +1,3 @@
-- [📝 IDEs e editores de código](#id01)
-
-
 ## 🐙 Github repos
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
 - [4noobs](https://github.com/he4rt/4noobs)
@@ -19,7 +16,7 @@
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - [Criptografia](https://www.dcode.fr/en)
 
-## 📝 IDEs e editores de código <a name="id01"></a>
+## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 * [Brackets](http://brackets.io/) - Editor de código da Adobe
