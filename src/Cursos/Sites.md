@@ -26,7 +26,8 @@
 - [Udemy](https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity)
 - [Codando.org](https://codando.org/material-gratuito)
 - [CS50 - Ciência da Computação](https://cc50.estudarfora.org.br/)
-  
+- [Cursos gratuitos USP](https://computerworld.com.br/carreira/python-big-data-e-ux-5-cursos-online-gratuitos-da-usp-com-foco-em-ti)
+
 ## 🌐 Web
 - [Minicurso de HTML/HTML5](https://www.youtube.com/watch?v=DGeFqagZULA&list=PLEyt1MvK3exQvhz6hFo-66fXbpHY6BGrJ&index=2&t=0s)
 - [Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-)
