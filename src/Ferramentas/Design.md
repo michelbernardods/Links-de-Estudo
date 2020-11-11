@@ -34,7 +34,6 @@
 - [Picsum](https://picsum.photos) - Banco de imagens para uso como template
 - [Pixabay](https://pixabay.com/pt) - Banco de imagens gratuitas (não requer atribuição)
 - [Public domain archive](https://www.publicdomainarchive.com) - Banco de imagens gratuitas
-- [RemixIcon](https://remixicon.com) - Banco de Ícones para uso gratuito
 - [StockSnap](https://stocksnap.io) - Banco de imagens gratuitas (não requer atribuição)
 - [unDraw](https://undraw.co/illustrations) - Ilustrações livres para usar
 - [Unsplash](https://unsplash.com) - Banco de imagens gratuitas
@@ -46,6 +45,7 @@
 - [Feather Icons](https://feathericons.com) - Ícones gratuitos e customizáveis
 - [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
 - [Material Design](https://material.io/resources/icons/?style=baseline) - Delightful, beautifully crafted symbols for common actions and items.
+- [RemixIcon](https://remixicon.com) - Banco de Ícones para uso gratuito
 - [Icon Fonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
 - [Icon Finder](https://www.iconfinder.com) - Encontre ícones vetoriais nos formatos SVG, PNG, CSH e AI
 - [Icons Cout](https://iconscout.com) - Site reúne grande acervo de ícones gratuitos
