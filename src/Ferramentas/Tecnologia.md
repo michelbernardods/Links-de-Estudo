@@ -7,6 +7,15 @@
 - [Free courses](https://github.com/alinebastos/free-courses)
 - [Resumos](https://github.com/levxyca/studynotes)
 
+## 🔎 Estatísticas
+- [Google trends](https://trends.google.com.br/trends/?geo=BR)
+- [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
+- [GitHut](https://madnight.github.io/githut)
+
+## 🔐 InfoSec
+- [No More Ransom](https://www.nomoreransom.org/pt/index.html)
+- [Criptografia](https://www.dcode.fr/en)
+
 ## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
@@ -37,15 +46,6 @@
 - [Repl.it](https://repl.it) - Plataforma de codificação na nuvem
 - [Slingcode](https://slingcode.net) - Plataforma de codificação na nuvem
 - [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
-
-## 🔎 Estatísticas
-- [Google trends](https://trends.google.com.br/trends/?geo=BR)
-- [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
-- [GitHut](https://madnight.github.io/githut)
-
-## 🔐 InfoSec
-- [No More Ransom](https://www.nomoreransom.org/pt/index.html)
-- [Criptografia](https://www.dcode.fr/en)
 
 ## 🕵️‍♂️ Outros
 - [Notion](https://www.notion.so), [Keep](https://keep.google.com) - Anotações em nuvem
