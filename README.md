@@ -1,15 +1,15 @@
 ## ⌚ Índice
 
-Materiais 📚
-
 - [Cursos](#id_1)
+
 - [Bibliotecas](#id_2)
+
 - [Blogs](#id_3)
 
-Ferramentas 🛠
-
 - [Desafios](#id_4)
+
 - [Tecnologia](#id_5)
+
 - [Design](#id_6)
 
 ## Cursos <a name="id_1"></a>
