@@ -248,9 +248,9 @@ Inglês
 - [Figma](https://www.figma.com)
 
 🎭 Ilustrações
-- [Glaze](https://www.glazestock.com)
-- [Lukas Zadam](https://lukaszadam.com/illustrations)
-- [Imagens com diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade)
+- [Glaze](https://www.glazestock.com) - Memorable products, brands, & presentations start with our curated royalty-free illustration library
+- [Lukas Zadam](https://lukaszadam.com/illustrations) - Here you’ll find MIT licensed SVG illustration images in different shapes & styles.
+- [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Bancos de Imagens com Pessoas Diversas, maior acesso e representatividade.
 - [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 - [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 - [Cupcake](http://cupcake.nilssonlee.se) - Imagens gratuitas para uso comercial
