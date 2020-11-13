@@ -1,16 +1,38 @@
 ## ⌚ Índice
 
-- [Cursos](#id_1)
+Estudos
 
-- [Bibliotecas](#id_2)
+- [🏫 Cursos](#id_1)
 
-- [Blogs](#id_3)
+- [📚 Bibliotecas](#id_2)
 
-- [Desafios](#id_4)
+- [📝 Blogs](#id_3)
 
-- [Tecnologia](#id_5)
+- [🏆 Desafios](#id_4)
 
-- [Design](#id_6)
+Ferramentas
+
+- [🐙 Repositórios do Github](#id_5)
+
+- [🔎 Estatísticas](#id_6)
+
+- [🔐 Segurança da informação](#id_7)
+
+- [📝 IDEs e editores de código](#id_8)
+
+- [☁ IDEs em nuvem](#id_9)
+
+- [🗂 Gerenciamento de projetos](#id_10)
+
+- [🧨 Design](#id_11)
+
+- [🎭 Ilustrações](#id_12)
+
+- [🧮 Ícones](#id_13)
+
+- [🎞️ Vídeos](#id_14)
+
+- [🕵️‍♂️ Outros](#id_15)
 
 ## Cursos <a name="id_1"></a>
 
@@ -177,9 +199,9 @@ Inglês
 - [Hacker One](https://www.hackerone.com)
 - [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
 
-## Tecnologia <a name="id_5"></a>
-
-🐙 Github repos
+## Ferramentas 
+         
+🐙 Repositórios do Github <a name="id_5"></a>
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
 - [4noobs](https://github.com/he4rt/4noobs)
 - [Dctb Links](https://github.com/diogocezar/dctb-links)
@@ -188,16 +210,16 @@ Inglês
 - [Free courses](https://github.com/alinebastos/free-courses)
 - [Resumos](https://github.com/levxyca/studynotes)
 
-🔎 Estatísticas
+🔎 Estatísticas <a name="id_6"></a>
 - [Google trends](https://trends.google.com.br/trends/?geo=BR)
 - [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
 - [GitHut](https://madnight.github.io/githut)
 
-🔐 InfoSec
+🔐 Segurança da informação <a name="id_7"></a>
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - [Criptografia](https://www.dcode.fr/en)
 
-📝 IDEs e editores de código
+📝 IDEs e editores de código <a name="id_8"></a>
 - [Atom](https://atom.io/) - Editor de código do GitHub
 - [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 - [Brackets](http://brackets.io/) - Editor de código da Adobe
@@ -213,7 +235,7 @@ Inglês
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 
-☁ IDEs em nuvem
+☁ IDEs em nuvem <a name="id_9"></a>
 - [CodeAnywhere](https://codeanywhere.com) - Plataforma de codificação na nuvem
 - [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 - [Codepen](https://codepen.io) - Plataforma de codificação na nuvem
@@ -228,7 +250,7 @@ Inglês
 - [Slingcode](https://slingcode.net) - Plataforma de codificação na nuvem
 - [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
 
-🗂 Gerenciamento de projetos
+🗂 Gerenciamento de projetos <a name="id_10"></a>
 - [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 - [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 - [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
@@ -246,20 +268,7 @@ Inglês
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 - [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 
-🕵️‍♂️ Outros
-- [OnWorks](https://www.onworks.net) - Sistema Operacional em nuvem
-- [Wetransfer](https://wetransfer.com) - Transferencia de arquivos online
-- [TinyURL](https://tinyurl.com) - Encurtador de urls
-- [Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
-- [1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
-- [Libreflix](https://libreflix.org) - Plataforma de streaming livre e independente
-- [Opensource builders](https://opensource.builders) - Alternativas open source a softwares
-- [Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
-- [Wikimedia Foundation](https://wikimediafoundation.org) - Help us unlock the world’s knowledge.
-
-## Design <a name="id_6"></a>
-
-🧨 Geral
+🧨 Design <a name="id_11"></a>
 - [Excalidraw](https://excalidraw.com)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 - [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
@@ -300,7 +309,7 @@ Inglês
 - [UI Gradients](https://uigradients.com) - UI gradientes para utilizar
 - [Whimsical](https://whimsical.com) - Flowchart, Wireframe, Sticky Notes e Mind Map
 
-🎭 Ilustrações
+🎭 Ilustrações <a name="id_12"></a>
 - [Glaze](https://www.glazestock.com) - Memorable products, brands, & presentations start with our curated royalty-free illustration library
 - [Lukas Zadam](https://lukaszadam.com/illustrations) - Here you’ll find MIT licensed SVG illustration images in different shapes & styles.
 - [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Bancos de Imagens com Pessoas Diversas, maior acesso e representatividade.
@@ -337,7 +346,7 @@ Inglês
 - [Visual Hunt](https://visualhunt.com) - Banco de imagens gratuitas
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
 
-🧮 Ícones
+🧮 Ícones <a name="id_13"></a>
 - [Flat Icons](https://www.flaticon.com) - O maior banco de dados de ícones gratuitos disponíveis em formatos PNG, SVG, EPS, PSD e BASE 64.
 - [Feather Icons](https://feathericons.com) - Ícones gratuitos e customizáveis
 - [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
@@ -349,9 +358,20 @@ Inglês
 - [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 - [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
-🎞️ Vídeos
+🎞️ Vídeos <a name="id_14"></a>
 - [Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
 - [Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [123 Apps](https://123apps.com/pt/) - Converter e editar vídeos, documentos, áudios 
 - [Audio Library](https://www.youtube.com/channel/UCZVzgqp-fRUgyvRAmlm9IxA) - Musicas e efeitos sem copyright
+
+🕵️‍♂️ Outros <a name="id_15"></a>
+- [OnWorks](https://www.onworks.net) - Sistema Operacional em nuvem
+- [Wetransfer](https://wetransfer.com) - Transferencia de arquivos online
+- [TinyURL](https://tinyurl.com) - Encurtador de urls
+- [Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
+- [1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
+- [Libreflix](https://libreflix.org) - Plataforma de streaming livre e independente
+- [Opensource builders](https://opensource.builders) - Alternativas open source a softwares
+- [Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
+- [Wikimedia Foundation](https://wikimediafoundation.org) - Help us unlock the world’s knowledge.
