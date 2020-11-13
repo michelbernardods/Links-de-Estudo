@@ -12,6 +12,8 @@
 
 - [Design](#id_6)
 
+- [teste](#id)
+
 ## Cursos <a name="id_1"></a>
 
 💻 Tecnologia
@@ -197,7 +199,7 @@ Inglês
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - [Criptografia](https://www.dcode.fr/en)
 
-📝 IDEs e editores de código
+📝 IDEs e editores de código <a name="id"></a>
 - [Atom](https://atom.io/) - Editor de código do GitHub
 - [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 - [Brackets](http://brackets.io/) - Editor de código da Adobe
