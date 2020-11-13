@@ -1,21 +1,3 @@
-<h1 align="center">
-    < 📜 > <br>
-    Links de tecnologia
-</h1>
-
-<h4 align="center">
-  Coleção de links para estudo, pesquisa e desenvolvimento.
-</h4>
-
-<p align="center">
-  <a href="https://github.com/nerd0000">
-    <img alt="Feito por Alan" src="https://img.shields.io/badge/made%20by-Alan-8743CC">
-  </a>
-  <img alt="Último Commit" src="https://img.shields.io/github/last-commit/Nerd0000/Links-de-Estudo">
-  <img alt="Contribuidores" src="https://img.shields.io/github/contributors/Nerd0000/Links-de-Estudo">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
-</p>
-
 ## ⌚ Índice
 
 Materiais 📚
@@ -30,7 +12,7 @@ Ferramentas 🛠
 - [Tecnologia](#id_5)
 - [Design](#id_6)
 
-<hr>
+<p></p>
 
 ## Cursos <a name="id_1"></a>
 
