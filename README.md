@@ -12,8 +12,6 @@ Ferramentas 🛠
 - [Tecnologia](#id_5)
 - [Design](#id_6)
 
-<p></p>
-
 ## Cursos <a name="id_1"></a>
 
 💻 Tecnologia
