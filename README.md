@@ -136,14 +136,19 @@ Ferramentas
 
 ## Bibliotecas <a name="id_2"></a>
 
-Português
+Livros em Português
 - [Le Livros](https://lelivros.love)
 - [Wiki Livros](https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal)
 - [Free Livros](https://github.com/free-educa/free-livros)
 - [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
 - [Caelum Tecnologia](https://www.caelum.com.br/apostilas)
 
-Vários idiomas
+Quadrinhos
+- [HQ Now](http://www.hq-now.com)
+- [Social Comics](https://www.socialcomics.com.br)
+- [HQ Dragon](https://hqdragon.com)
+
+Livros em idiomas diversos
 - [Z-Library](https://b-ok.lat)
 - [Library Genesis](https://libgen.is)
 - [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md)
