@@ -209,11 +209,12 @@ Inglês
 🐙 Repositórios do Github <a name="id_5"></a>
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
 - [4noobs](https://github.com/he4rt/4noobs)
+- [Resumos](https://github.com/levxyca/studynotes)
 - [Dctb Links](https://github.com/diogocezar/dctb-links)
 - [Perifa Code](https://github.com/perifacode/conteudo-gratuito)
-- [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
 - [Free courses](https://github.com/alinebastos/free-courses)
-- [Resumos](https://github.com/levxyca/studynotes)
+- [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
+- [Mulheres ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
 
 🔎 Estatísticas <a name="id_6"></a>
 - [Google trends](https://trends.google.com.br/trends/?geo=BR)
