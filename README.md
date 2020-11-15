@@ -2,7 +2,7 @@
 
 - [🏫 Cursos](#id_1)
 - [📚 Bibliotecas](#id_2)
-- [📝 Blogs](#id_3)
+- [👤 Blogs](#id_3)
 - [🏆 Desafios](#id_4)
 - [🐙 Repositórios do Github](#id_5)
 - [🔎 Estatísticas](#id_6)
