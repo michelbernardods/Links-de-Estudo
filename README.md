@@ -184,10 +184,8 @@ Inglês
 - [Grid Garden](https://cssgridgarden.com)
 - [30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
 - [100 days Css](https://100dayscss.com)
-
-## Ferramentas 
          
-🐙 Repositórios do Github <a name="id_5"></a>
+## 🐙 Repositórios do Github <a name="id_5"></a>
 - [Recursos Gratuitos](https://github.com/iuricode/recursos-gratuitos)
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
 - [4noobs](https://github.com/he4rt/4noobs)
@@ -198,7 +196,7 @@ Inglês
 - [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
 - [Mulheres ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
 
-🔎 Estatísticas <a name="id_6"></a>
+## 🔎 Estatísticas <a name="id_6"></a>
 - [Google trends](https://trends.google.com.br/trends/?geo=BR)
 - [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
 - [GitHut](https://madnight.github.io/githut)
@@ -255,7 +253,7 @@ Em nuvem
 - [Slingcode](https://slingcode.net) - Plataforma de codificação na nuvem
 - [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
 
-🗂 Gerenciamento de projetos <a name="id_10"></a>
+## 🗂 Gerenciamento de projetos <a name="id_10"></a>
 - [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 - [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 - [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
@@ -273,7 +271,7 @@ Em nuvem
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 - [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 
-🧨 Design <a name="id_11"></a>
+## 🧨 Design <a name="id_11"></a>
 - [Excalidraw](https://excalidraw.com)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 - [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
@@ -314,7 +312,7 @@ Em nuvem
 - [UI Gradients](https://uigradients.com) - UI gradientes para utilizar
 - [Whimsical](https://whimsical.com) - Flowchart, Wireframe, Sticky Notes e Mind Map
 
-🎭 Ilustrações <a name="id_12"></a>
+## 🎭 Ilustrações <a name="id_12"></a>
 - [Glaze](https://www.glazestock.com) - Memorable products, brands, & presentations start with our curated royalty-free illustration library
 - [Lukas Zadam](https://lukaszadam.com/illustrations) - Here you’ll find MIT licensed SVG illustration images in different shapes & styles.
 - [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Bancos de Imagens com Pessoas Diversas, maior acesso e representatividade.
@@ -351,7 +349,7 @@ Em nuvem
 - [Visual Hunt](https://visualhunt.com) - Banco de imagens gratuitas
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
 
-🧮 Ícones <a name="id_13"></a>
+## 🧮 Ícones <a name="id_13"></a>
 - [Flat Icons](https://www.flaticon.com) - O maior banco de dados de ícones gratuitos disponíveis em formatos PNG, SVG, EPS, PSD e BASE 64.
 - [Feather Icons](https://feathericons.com) - Ícones gratuitos e customizáveis
 - [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
@@ -363,14 +361,14 @@ Em nuvem
 - [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 - [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
-🎞️ Vídeos <a name="id_14"></a>
+## 🎞️ Vídeos <a name="id_14"></a>
 - [Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
 - [Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [123 Apps](https://123apps.com/pt/) - Converter e editar vídeos, documentos, áudios 
 - [Audio Library](https://www.youtube.com/channel/UCZVzgqp-fRUgyvRAmlm9IxA) - Musicas e efeitos sem copyright
 
-🕵️‍♂️ Outros <a name="id_15"></a>
+## 🕵️‍♂️ Outros <a name="id_15"></a>
 - [OnWorks](https://www.onworks.net) - Sistema Operacional em nuvem
 - [Wetransfer](https://wetransfer.com) - Transferencia de arquivos online
 - [TinyURL](https://tinyurl.com) - Encurtador de urls
