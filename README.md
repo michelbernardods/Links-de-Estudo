@@ -208,9 +208,9 @@ Inglês
 Cursos
 - Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
 - [Solyd Treinamentos](https://solyd.com.br/treinamentos)
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
 
 Ferramentas
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - [Criptografia](https://www.dcode.fr/en)
 
