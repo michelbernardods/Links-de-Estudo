@@ -1,7 +1,5 @@
 ## ⌚ Índice
 
-Estudos
-
 - [🏫 Cursos](#id_1)
 
 - [📚 Bibliotecas](#id_2)
@@ -10,8 +8,6 @@ Estudos
 
 - [🏆 Desafios](#id_4)
 
-Ferramentas
-
 - [🐙 Repositórios do Github](#id_5)
 
 - [🔎 Estatísticas](#id_6)
@@ -19,8 +15,6 @@ Ferramentas
 - [🔐 Segurança da informação](#id_7)
 
 - [📝 IDEs e editores de código](#id_8)
-
-- [☁ IDEs em nuvem](#id_9)
 
 - [🗂 Gerenciamento de projetos](#id_10)
 
@@ -100,11 +94,6 @@ Ferramentas
 - [Escola de hardware](https://www.youtube.com/playlist?list=PLB3bkcT5ue2gQdII6KKwhloyl2AvtSWL9)
 - [Eletrônica aplicada](https://www.youtube.com/c/AmoraVidas)
 
-🔐 Segurança da informação ofensiva
-- Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
-- [Solyd Treinamentos](https://solyd.com.br/treinamentos)
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
-
 🎨 Design
 - [Crehana](https://www.crehana.com/br/cursos-gratis)
 - [Tutorial Master](https://www.youtube.com/channel/UC64cfFXE8DXSwDyOekJBDmw)
@@ -159,16 +148,16 @@ Livros em idiomas diversos
 ## Blogs <a name="id_3"></a>
 
 Português
-
-  - [Estágio em programacao](https://infosimples.github.io/estagio-em-programacao/)
-  - [Estágio Online](https://estagioonline.com/blog)
-  - [Imasters](https://imasters.com.br)
-  - [CBSI](https://www.cbsi.net.br)
+- [Como programar em 1 dia!](https://medium.com/como-programar-em-1-dia)
+- [Imasters](https://imasters.com.br)
+- [CBSI](https://www.cbsi.net.br)
+- [Estágio Online](https://estagioonline.com/blog)
+- [Estágio em programacao](https://infosimples.github.io/estagio-em-programacao/)
   
 Inglês
-
-  - [Free Code Camp](https://www.freecodecamp.org/news)
-  - [How To Geek](https://www.howtogeek.com)
+- [Free Code Camp](https://www.freecodecamp.org/news)
+- [How To Geek](https://www.howtogeek.com)
+- [Coders Rank Blog](https://blog.codersrank.io)
 
 ## Desafios <a name="id_4"></a>
 
@@ -196,17 +185,10 @@ Inglês
 - [30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
 - [100 days Css](https://100dayscss.com)
 
-🔐 Bug Bounty
-- [Over The Wire](https://overthewire.org/wargames)
-- [Hack the box](https://www.hackthebox.eu)  
-- [Hacker101](https://www.hacker101.com)
-- [Hacker Security](capturetheflag.com.br)
-- [Hacker One](https://www.hackerone.com)
-- [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
-
 ## Ferramentas 
          
 🐙 Repositórios do Github <a name="id_5"></a>
+- [Recursos Gratuitos](https://github.com/iuricode/recursos-gratuitos)
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
 - [4noobs](https://github.com/he4rt/4noobs)
 - [Resumos](https://github.com/levxyca/studynotes)
@@ -221,27 +203,44 @@ Inglês
 - [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
 - [GitHut](https://madnight.github.io/githut)
 
-🔐 Segurança da informação <a name="id_7"></a>
+## 🔐 Segurança da informação <a name="id_7"></a>
+
+Cursos
+- Desec: [Cadastro, ](https://desecsecurity.com/curso/curso-pentest-gratuito)[Login](https://desecsecurity.com/academy/login)
+- [Solyd Treinamentos](https://solyd.com.br/treinamentos)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+
+Ferramentas
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - [Criptografia](https://www.dcode.fr/en)
 
-📝 IDEs e editores de código <a name="id_8"></a>
-- [Atom](https://atom.io/) - Editor de código do GitHub
-- [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
-- [Brackets](http://brackets.io/) - Editor de código da Adobe
-- [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
-- [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
-- [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
-- [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
-- [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
-- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
-- [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
-- [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+Desafios
+- [Over The Wire](https://overthewire.org/wargames)
+- [Hack the box](https://www.hackthebox.eu)  
+- [Hacker101](https://www.hacker101.com)
+- [Hacker Security](capturetheflag.com.br)
+- [Hacker One](https://www.hackerone.com)
+- [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
 
-☁ IDEs em nuvem <a name="id_9"></a>
+## 📝 IDEs e editores de código <a name="id_8"></a>
+
+Local
+- [Atom](https://atom.io) - Editor de código do GitHub
+- [BBEdit](https://www.barebones.com/products/bbedit) - Editor de código para Mac OS
+- [Brackets](http://brackets.io) - Editor de código da Adobe
+- [CodeBlocks](http://www.codeblocks.org) - IDE para C e C++
+- [Dev C++](https://sourceforge.net/projects/orwelldevcpp) - IDE Dev C++ para liguagem C/C++
+- [Eclipse](https://www.eclipse.org/downloads) - IDE software livre da IBM
+- [IntelliJ IDEA](https://www.jetbrains.com/idea) - IDE da Jetbrains
+- [NetBeans](https://netbeans.org) - IDE gratuita da Apache
+- [Notepad++](https://notepad-plus-plus.org) - Editor de código raíz
+- [PHPStorm](https://www.jetbrains.com/phpstorm) - IDE específica para PHP
+- [PyCharm](https://www.jetbrains.com/pycharm) - IDE específica para Python
+- [Sublime Text](https://www.sublimetext.com) - Sua licença expirou
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs) - IDE da Microsoft
+- [Visual Studio Code](https://code.visualstudio.com) - Editor de código da Microsoft
+
+Em nuvem
 - [CodeAnywhere](https://codeanywhere.com) - Plataforma de codificação na nuvem
 - [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
 - [Codepen](https://codepen.io) - Plataforma de codificação na nuvem
@@ -377,6 +376,7 @@ Inglês
 - [TinyURL](https://tinyurl.com) - Encurtador de urls
 - [Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [1loc: one line of code](https://1loc.dev) - Comandos javaScript em uma única linha (em inglês)
+- [Project Looo](https://www.project-looo.org) - Leaderboard of Open Source Organizations
 - [Libreflix](https://libreflix.org) - Plataforma de streaming livre e independente
 - [Opensource builders](https://opensource.builders) - Alternativas open source a softwares
 - [Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
