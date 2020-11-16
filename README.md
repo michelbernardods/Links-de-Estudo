@@ -10,7 +10,7 @@
 - [📝 IDEs e editores de código](#id_8)
 - [🗂 Gerenciamento de projetos](#id_10)
 - [🧨 Design](#id_11)
-- [🎭 Ilustrações](#id_12)
+- [🎭 Imagens](#id_12)
 - [🧮 Ícones](#id_13)
 - [🎞️ Vídeos](#id_14)
 - [🕵️‍♂️ Outros](#id_15)
@@ -300,7 +300,7 @@ Em nuvem
 - [UI Gradients](https://uigradients.com) - UI gradientes para utilizar
 - [Whimsical](https://whimsical.com) - Flowchart, Wireframe, Sticky Notes e Mind Map
 
-## 🎭 Ilustrações <a name="id_12"></a>
+## 🎭 Imagens <a name="id_12"></a>
 - [Glaze](https://www.glazestock.com) - Memorable products, brands, & presentations start with our curated royalty-free illustration library
 - [Lukas Zadam](https://lukaszadam.com/illustrations) - Here you’ll find MIT licensed SVG illustration images in different shapes & styles.
 - [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Bancos de Imagens com Pessoas Diversas, maior acesso e representatividade.
