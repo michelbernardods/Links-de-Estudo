@@ -1,4 +1,4 @@
-## ⌚ Índice
+## Índice
 
 [🏫 Cursos](#id_1)
 
