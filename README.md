@@ -266,6 +266,7 @@ Em nuvem
 - [BuildBootstrap](https://buildbootstrap.com) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
 - [Bulma CSS](https://bulma.io) - Estrutura CSS gratuita baseada no Flexbox
 - [Canva](https://www.canva.com) - Ferramenta de design online
+- [Colors lol](https://colors.lol) - Apresenta paletas de cores.
 - [Colors and Fonts](https://www.colorsandfonts.com) - Apresenta paletas de cores e tipografia
 - [Coolors](https://coolors.co) - Use uma das palhetas de cores ou monte a sua própria.
 - [Cruip](https://cruip.com) - Recursos de templates
