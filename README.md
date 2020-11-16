@@ -1,19 +1,32 @@
 ## ⌚ Índice
 
-- [🏫 Cursos](#id_1)
-- [📚 Bibliotecas](#id_2)
-- [👤 Blogs](#id_3)
-- [🏆 Desafios](#id_4)
-- [🐙 Repositórios do Github](#id_5)
-- [🔎 Estatísticas](#id_6)
-- [🔐 Segurança da informação](#id_7)
-- [📝 IDEs e editores de código](#id_8)
-- [🗂 Gerenciamento de projetos](#id_10)
-- [🧨 Design](#id_11)
-- [🎭 Imagens](#id_12)
-- [🧮 Ícones](#id_13)
-- [🎞️ Vídeos](#id_14)
-- [🕵️‍♂️ Outros](#id_15)
+[🏫 Cursos](#id_1)
+
+[📚 Bibliotecas](#id_2)
+
+[👤 Blogs](#id_3)
+
+[🏆 Desafios](#id_4)
+
+[🐙 Repositórios do Github](#id_5)
+
+[🔎 Estatísticas](#id_6)
+
+[🔐 Segurança da informação](#id_7)
+
+[📝 IDEs e editores de código](#id_8)
+
+[🗂 Gerenciamento de projetos](#id_10)
+
+[🧨 Design](#id_11)
+
+[🎭 Imagens](#id_12)
+
+[🧮 Ícones](#id_13)
+
+[🎞️ Vídeos](#id_14)
+
+[🕵️‍♂️ Outros](#id_15)
 
 ## Cursos <a name="id_1"></a>
 
