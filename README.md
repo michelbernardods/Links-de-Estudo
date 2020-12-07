@@ -1,32 +1,14 @@
 # Índice
 
-[🏫 Cursos](#id_1)
-
-[📚 Bibliotecas](#id_2)
-
-[👤 Blogs](#id_3)
-
-[🏆 Desafios](#id_4)
-
-[🐙 Repositórios do Github](#id_5)
-
-[🔎 Estatísticas](#id_6)
-
-[🔐 Segurança da informação](#id_7)
-
-[📝 IDEs e editores de código](#id_8)
-
-[🗂 Gerenciamento de projetos](#id_10)
-
-[🧨 Design](#id_11)
-
-[🎭 Imagens](#id_12)
-
-[🧮 Ícones](#id_13)
-
-[🎞️ Vídeos](#id_14)
-
-[🕵️‍♂️ Outros](#id_15)
+- [Cursos](#id_1)
+- [Bibliotecas](#id_2)
+- [Blogs](#id_3)
+- [Desafios](#id_4)
+- [Repositórios do Github](#id_5)
+- [Estatísticas](#id_6)
+- [Segurança da informação](#id_7)
+- [Vídeos](#id_8)
+- [Outros](#id_9)
 
 ## Cursos <a name="id_1"></a>
 
@@ -210,7 +192,13 @@ Cursos
 Ferramentas
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
-- [Criptografia](https://www.dcode.fr/en)
+- [Dcode](https://www.dcode.fr/en)
+- [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
+- [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
+- [HTTRack](http://www.httrack.com/) - Browser utility
+- [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
+- [NMap](https://nmap.org/) - Scanner de portas de rede
+- [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 Desafios
 - [Over The Wire](https://overthewire.org/wargames)
@@ -219,157 +207,17 @@ Desafios
 - [Hacker Security](capturetheflag.com.br)
 - [Hacker One](https://www.hackerone.com)
 - [Bug Crowd](https://www.bugcrowd.com/try-bugcrowd)
+- [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+- [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
 
-## 📝 IDEs e editores de código <a name="id_8"></a>
-
-Local
-- [Atom](https://atom.io) - Editor de código do GitHub
-- [BBEdit](https://www.barebones.com/products/bbedit) - Editor de código para Mac OS
-- [Brackets](http://brackets.io) - Editor de código da Adobe
-- [CodeBlocks](http://www.codeblocks.org) - IDE para C e C++
-- [Dev C++](https://sourceforge.net/projects/orwelldevcpp) - IDE Dev C++ para liguagem C/C++
-- [Eclipse](https://www.eclipse.org/downloads) - IDE software livre da IBM
-- [IntelliJ IDEA](https://www.jetbrains.com/idea) - IDE da Jetbrains
-- [NetBeans](https://netbeans.org) - IDE gratuita da Apache
-- [Notepad++](https://notepad-plus-plus.org) - Editor de código raíz
-- [PHPStorm](https://www.jetbrains.com/phpstorm) - IDE específica para PHP
-- [PyCharm](https://www.jetbrains.com/pycharm) - IDE específica para Python
-- [Sublime Text](https://www.sublimetext.com) - Sua licença expirou
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs) - IDE da Microsoft
-- [Visual Studio Code](https://code.visualstudio.com) - Editor de código da Microsoft
-
-Em nuvem
-- [CodeAnywhere](https://codeanywhere.com) - Plataforma de codificação na nuvem
-- [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
-- [Codepen](https://codepen.io) - Plataforma de codificação na nuvem
-- [Code Sandbox](https://codesandbox.io) - Plataforma de codificação na nuvem
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
-- [Devmind.io](https://devmind.io) - Editor de código online
-- [Gitpod](https://www.gitpod.io) - IDE online para GitHub
-- [Glitch](https://glitch.com) - IDE online compativel com o Github
-- [IDE One](https://ideone.com) - IDE online para C, Python, Java, etc
-- [My Compiler](https://www.mycompiler.io) - IDE online com suporte para diversas linguagens
-- [Repl.it](https://repl.it) - Plataforma de codificação na nuvem
-- [Slingcode](https://slingcode.net) - Plataforma de codificação na nuvem
-- [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
-
-## 🗂 Gerenciamento de projetos <a name="id_10"></a>
-- [Asana](https://asana.com/pt) - Gerenciamento de trabalho
-- [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
-- [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
-- [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
-- [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
-- [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
-- [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
-- [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
-- [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
-- [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
-- [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
-- [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros
-- [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
-- [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
-- [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
-- [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
-
-## 🧨 Design <a name="id_11"></a>
-- [Excalidraw](https://excalidraw.com)
-- [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
-- [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
-- [Bootstrap](https://www.getbootstrap.com) - Framework CSS
-- [BuildBootstrap](https://buildbootstrap.com) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
-- [Bulma CSS](https://bulma.io) - Estrutura CSS gratuita baseada no Flexbox
-- [Canva](https://www.canva.com) - Ferramenta de design online
-- [Colors lol](https://colors.lol) - Apresenta paletas de cores.
-- [Colors and Fonts](https://www.colorsandfonts.com) - Apresenta paletas de cores e tipografia
-- [Coolors](https://coolors.co) - Use uma das palhetas de cores ou monte a sua própria.
-- [Cruip](https://cruip.com) - Recursos de templates
-- [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets) - Animações CSS prontas para usar
-- [CSS Tricks](https://css-tricks.com) - Blog com vários tutoriais frontend
-- [Figma](https://www.figma.com) - Desenhe projetos online de apps, softwares e websites
-- [Flatui Color Picker](http://www.flatuicolorpicker.com) - Paleta de cores interativa de forma harmonizar o front
-- [Font Flipper](https://fontflipper.com) - Ferramenta para testar fontes
-- [FontPair](https://fontpair.co) - Ferramenta para combinações de fontes
-- [FontSpark](https://fontspark.app) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
-- [Foundation](https://foundation.zurb.com) - Framework responsivo
-- [Framer](https://www.framer.com) - Ferramenta de criação de interfaces interativas
-- [FreeFrontEnd](https://freefrontend.com) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
-- [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
-- [Interfacer](https://interfacer.xyz) - Recursos para criação de interfaces
-- [Interfaces.pro](https://interfaces.pro) - Inspiração para interfaces
-- [Invision](https://www.invisionapp.com) - Software de design para projetos
-- [Lottie](https://lottiefiles.com) - Animações em after effects via json
-- [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
-- [Material-UI](https://material-ui.com) - Um framework de interface de usuário para React
-- [Mockup](https://mockup.io/about) - Visualize e colabore no design de aplicativos para dispositivos móveis
-- [Nes.css](https://nostalgic-css.github.io/NES.css) - Framework CSS estilo NES
-- [Neumorphism](https://neumorphism.io) - Tendência aplicação border-radius
-- [Normalize CSS](https://necolas.github.io/normalize.css) - Normaliza estruturas entre navegadores
-- [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
-- [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
-- [Pure.css](https://purecss.io) - Framework CSS responsivo
-- [Remove.bg](https://www.remove.bg) - Remove fundos de imagens automaticamente
-- [Sketch](https://www.sketch.com) - Desenvolvimento de layouts em alta qualidade
-- [Squoosh.app](https://squoosh.app) - Compressor de imagens e comparador, via navegador
-- [UI Gradients](https://uigradients.com) - UI gradientes para utilizar
-- [Whimsical](https://whimsical.com) - Flowchart, Wireframe, Sticky Notes e Mind Map
-
-## 🎭 Imagens <a name="id_12"></a>
-- [Glaze](https://www.glazestock.com) - Memorable products, brands, & presentations start with our curated royalty-free illustration library
-- [Lukas Zadam](https://lukaszadam.com/illustrations) - Here you’ll find MIT licensed SVG illustration images in different shapes & styles.
-- [Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Bancos de Imagens com Pessoas Diversas, maior acesso e representatividade.
-- [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
-- [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
-- [Cupcake](http://cupcake.nilssonlee.se) - Imagens gratuitas para uso comercial
-- [DrawKIT](https://www.drawkit.io) - Ilustrações para qualquer um usar
-- [Flickr](https://flickr.com) - Rede social de fotógrafos
-- [FreeImages](https://pt.freeimages.com) - Banco de imagens gratuitas
-- [FreePik Stories](https://stories.freepik.com) - Banco de ilustrações gratuitas
-- [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
-- [Gratisography](https://gratisography.com) - Banco de imagens gratuitas
-- [Humaaans](https://www.humaaans.com) - Ilustrações de humanóides
-- [Icons8](https://icons8.com.br) - Ícones em diversos estilos
-- [Imgur](https://imgur.com) - Plataforma com milhões de imagens
-- [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos
-- [Life of Pix](https://www.lifeofpix.com) - Banco de imagens gratuitas
-- [Little Visuals](https://littlevisuals.co) - Banco de imagens gratuitas
-- [Lorem Pixel](http://lorempixel.com) - Banco de imagens para uso como template
-- [Many Pixels](https://www.manypixels.co/gallery) - Galeria de ilustrações com direito a edição de cores
-- [Morguefile](https://morguefile.com) - Banco de imagens gratuitas
-- [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
-- [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
-- [Open Moji](https://openmoji.org) - Banco de emojis para uso
-- [Pexels](https://www.pexels.com) - Banco de imagens gratuitas
-- [PhotoPin](http://photopin.com) - Banco de imagens gratuitas no estilo criativo 
-- [Picjumbo](https://picjumbo.com) - Banco de imagens gratuitas
-- [Picsum](https://picsum.photos) - Banco de imagens para uso como template
-- [Pixabay](https://pixabay.com/pt) - Banco de imagens gratuitas (não requer atribuição)
-- [Public domain archive](https://www.publicdomainarchive.com) - Banco de imagens gratuitas
-- [StockSnap](https://stocksnap.io) - Banco de imagens gratuitas (não requer atribuição)
-- [unDraw](https://undraw.co/illustrations) - Ilustrações livres para usar
-- [Unsplash](https://unsplash.com) - Banco de imagens gratuitas
-- [Visual Hunt](https://visualhunt.com) - Banco de imagens gratuitas
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
-
-## 🧮 Ícones <a name="id_13"></a>
-- [Flat Icons](https://www.flaticon.com) - O maior banco de dados de ícones gratuitos disponíveis em formatos PNG, SVG, EPS, PSD e BASE 64.
-- [Feather Icons](https://feathericons.com) - Ícones gratuitos e customizáveis
-- [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-- [Material Design](https://material.io/resources/icons/?style=baseline) - Delightful, beautifully crafted symbols for common actions and items.
-- [RemixIcon](https://remixicon.com) - Banco de Ícones para uso gratuito
-- [Icon Fonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
-- [Icon Finder](https://www.iconfinder.com) - Encontre ícones vetoriais nos formatos SVG, PNG, CSH e AI
-- [Icons Cout](https://iconscout.com) - Site reúne grande acervo de ícones gratuitos
-- [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
-- [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
-
-## 🎞️ Vídeos <a name="id_14"></a>
+## 🎞️ Vídeos <a name="id_8"></a>
 - [Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
 - [Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [123 Apps](https://123apps.com/pt/) - Converter e editar vídeos, documentos, áudios 
 - [Audio Library](https://www.youtube.com/channel/UCZVzgqp-fRUgyvRAmlm9IxA) - Musicas e efeitos sem copyright
 
-## 🕵️‍♂️ Outros <a name="id_15"></a>
+## 🕵️‍♂️ Outros <a name="id_9"></a>
 - [OnWorks](https://www.onworks.net) - Sistema Operacional em nuvem
 - [Wetransfer](https://wetransfer.com) - Transferencia de arquivos online
 - [TinyURL](https://tinyurl.com) - Encurtador de urls
