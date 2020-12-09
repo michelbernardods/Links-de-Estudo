@@ -129,6 +129,8 @@ Livros em idiomas diversos
 - [PDF Drive](https://www.pdfdrive.com)
 - [Goalkicker](https://books.goalkicker.com/)
 
+[🏠 Voltar ao índice](#id_0)
+
 ## Blogs <a name="id_3"></a>
 
 Português
@@ -142,6 +144,8 @@ Inglês
 - [Free Code Camp](https://www.freecodecamp.org/news)
 - [How To Geek](https://www.howtogeek.com)
 - [Coders Rank Blog](https://blog.codersrank.io)
+
+[🏠 Voltar ao índice](#id_0)
 
 ## Desafios <a name="id_4"></a>
 
@@ -172,6 +176,8 @@ Inglês
 - [30 dias de Css](https://github.com/MilenaCarecho/30diasDeCSS)
 - [100 days Css](https://100dayscss.com)
          
+[🏠 Voltar ao índice](#id_0)
+
 ## 🐙 Repositórios do Github <a name="id_5"></a>
 - [Recursos Gratuitos](https://github.com/iuricode/recursos-gratuitos)
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
@@ -183,10 +189,14 @@ Inglês
 - [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
 - [Mulheres ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
 
+[🏠 Voltar ao índice](#id_0)
+
 ## 🔎 Estatísticas <a name="id_6"></a>
 - [Google trends](https://trends.google.com.br/trends/?geo=BR)
 - [Jetbrains](https://www.jetbrains.com/lp/devecosystem-2020)
 - [GitHut](https://madnight.github.io/githut)
+
+[🏠 Voltar ao índice](#id_0)
 
 ## 🔐 Segurança da informação <a name="id_7"></a>
 
@@ -215,12 +225,16 @@ Desafios
 - [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
 - [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
 
+[🏠 Voltar ao índice](#id_0)
+
 ## 🎞️ Vídeos <a name="id_8"></a>
 - [Unscreen](https://www.unscreen.com) - Remover fundo de vídeos e GIFs
 - [Streamyard](https://streamyard.com) - Gravar videos e fazer lives sem baixar nada
 - [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [123 Apps](https://123apps.com/pt/) - Converter e editar vídeos, documentos, áudios 
 - [Audio Library](https://www.youtube.com/channel/UCZVzgqp-fRUgyvRAmlm9IxA) - Musicas e efeitos sem copyright
+
+[🏠 Voltar ao índice](#id_0)
 
 ## 🕵️‍♂️ Outros <a name="id_9"></a>
 - [OnWorks](https://www.onworks.net) - Sistema Operacional em nuvem
@@ -233,3 +247,5 @@ Desafios
 - [Opensource builders](https://opensource.builders) - Alternativas open source a softwares
 - [Privacy Tools](https://www.privacytools.io) - Alternativas privadas a softwares
 - [Wikimedia Foundation](https://wikimediafoundation.org) - Help us unlock the world’s knowledge.
+
+[🏠 Voltar ao índice](#id_0)
