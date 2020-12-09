@@ -160,6 +160,9 @@ Inglês
 - [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 - [Exercims](https://exercism.io/my/tracks)
 - [JsChallenger](https://www.jschallenger.com/start)
+- [Leetcode](https://leetcode.com)
+- [Coderbyte](https://coderbyte.com)
+- [Edabit](https://edabit.com)
 
 🎨 Css
 - [Flexbox Froggy](https://flexboxfroggy.com)
