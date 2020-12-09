@@ -1,4 +1,4 @@
-# Índice
+# Índice <a name="id_0"></a>
 
 - [Cursos](#id_1)
 - [Bibliotecas](#id_2)
@@ -104,6 +104,8 @@
 - [Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY),
   [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
 - [Clojure](https://www.youtube.com/watch?v=SBtEou4qBzw)
+
+[🏠 Voltar ao índice](#id_0)
 
 ## Bibliotecas <a name="id_2"></a>
 
