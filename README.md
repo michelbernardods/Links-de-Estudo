@@ -208,12 +208,13 @@ Ferramentas
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
 - [No More Ransom](https://www.nomoreransom.org/pt/index.html)
 - [Dcode](https://www.dcode.fr/en)
-- [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
-- [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
-- [HTTRack](http://www.httrack.com/) - Browser utility
-- [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
-- [NMap](https://nmap.org/) - Scanner de portas de rede
-- [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
+- [Beef-Project](https://beefproject.com) - Framework de exploração de browser
+- [HStrike](https://hstrike.com) - Ferramentas de pentest em nuvem
+- [HTTRack](http://www.httrack.com) - Browser utility
+- [Maltego](https://www.paterva.com) - Ambiente open source para análise de redes completa
+- [NMap](https://nmap.org) - Scanner de portas de rede
+- [SQLMap](http://sqlmap.org) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
+- [Hashcat](https://hashcat.net) - Software avançado de recuperação e/ou quebra de senhas.
 
 Desafios
 - [Over The Wire](https://overthewire.org/wargames)
