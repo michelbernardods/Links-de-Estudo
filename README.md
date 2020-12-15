@@ -188,6 +188,7 @@ Inglês
 - [Free courses](https://github.com/alinebastos/free-courses)
 - [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
 - [Mulheres ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 [🏠 Voltar ao índice](#id_0)
 
