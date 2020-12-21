@@ -187,6 +187,7 @@ Inglês
 - [Perifa Code](https://github.com/perifacode/conteudo-gratuito)
 - [Free courses](https://github.com/alinebastos/free-courses)
 - [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar)
+- [Recursos Front End](https://github.com/yurimutti/recursosfrontend)
 - [Mulheres ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
