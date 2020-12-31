@@ -179,6 +179,7 @@ Inglês
 [🏠 Voltar ao índice](#id_0)
 
 ## 🐙 Repositórios do Github <a name="id_5"></a>
+- [Programming Challenges](https://github.com/michelbernardods/programming-challenges)
 - [Recursos Gratuitos](https://github.com/iuricode/recursos-gratuitos)
 - [Links uteis](https://github.com/OfficialMarinho/Links-uteis)
 - [4noobs](https://github.com/he4rt/4noobs)
